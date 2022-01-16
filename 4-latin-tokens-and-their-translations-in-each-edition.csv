@@ -1,0 +1,278 @@
+01_latin_order,02_latin_tokens,03_eng_direct_tokens,1656_en,1743_en,1872_en,1886_en,1916_en,1936_en
+1.0,aeneadum,Aenea,romes,rome,romans,aeneadae,rome,aeneas’s
+2.0,genetrix,mother,parent,mother,mother,mother,mother,mother
+3.0,hominum,human,men,men,men,men,men,men
+4.0,divomque,godly,gods,gods,gods,gods,gods,gods
+5.0,voluptas,delight,joy,delight,joy,darling,delight,joy
+6.0,alma,nourishing,0,sweet,benignant,increase-giving,dear,life-giver
+7.0,venus,Venus,venus,venus,venus,venus,venus,venus
+8.0,caeli,celestial,heaven,heaven,heaven,heaven,stars,heaven
+9.0,subter,underneath,under,beneath,beneath,beneath,beneath,beneath
+10.0,labentia,to glide,move,rolling,gliding,gliding,gliding,gliding
+11.0,signa,mark,signs,signs,signs,signs,0,stars
+12.0,quae,who,0,who,0,who,that,who
+13.0,mare,sea,seas,sea,seas,sea,0,sea
+14.0,navigerum,Ship-bearing,ship-bearing,bearing,ship-bearing,ship-carrying,0,carries
+15.0,quae,who,0,0,0,0,0,that
+16.0,terras,earth,earth,earth,lands,lands,lands,land
+17.0,frugiferentis,fruitbearing,corn-bearing,fruitful,corn-bearing,corn-bearing,fruitful,bears
+18.0,concelebras,celebrate,0,0,0,0,0,0
+19.0,per,across,by,by,through,through,through,0
+20.0,te,you (acc),thee,thee,thy,thee,thee,thee
+21.0,quoniam, since then / because,since,for,since,since,for,for
+22.0,genus,"origin, race, stock",things,kind,things,kind,things,tribe
+23.0,omne,"all, every",all,every,all,every,all,every
+24.0,animantum,0,living,creatures,living,living,living,living
+25.0,concipitur,"take up, take in, take",conceiv'd,conceive,conceived,conceived,conceived,conceived
+26.0,visitque,"to look, view",beholding,view,behold,beholds,0,look
+27.0,exortum,"to come out, rise, appear",0,rise,rise,rises,risen,comes
+28.0,lumina,light,light,beams,light,light,0,light
+29.0,solis,sun,suns,sun’s,0,sun,sun,sun
+30.0,te,you (acc),o,thee,thee,thee,thee,thou
+31.0,dea,goddess,goddess,goddess,goddess,goddess,goddess,goddess
+32.0,te,you (acc),0,thee,thee,0,0,thou
+33.0,fugiunt,"fly, take flight",flee,fly,hushed,flee,flee,turn
+34.0,venti,winds // ? to come (gen/voc),winds,winds,winds,winds,wind,winds
+35.0,te,you (acc),0,thee,0,thee,0,0
+36.0,nubila,clouds,clouds,clouds,clouds,clouds,cloud,clouds
+37.0,caeli,celestial,skies,0,0,heaven,0,heaven
+38.0,adventumque,"to reach, arrive at",com'st,approach,coming,advent,coming,coming
+39.0,tuum,yours (acc),thou,thy,thy,thy,thy,thy
+40.0,tibi,"you (fem, dat)",0,thee,0,thee,thee,thee
+41.0,suavis,"sweet, agreeable, grateful",sweet,sweetest,0,sweet-smelling,scented,sweet-scented
+42.0,daedala,skilful / Daedalus,th'inamel'd,art,plastic,manifold,daedal,quaint
+43.0,tellus,"the earth, globe",earth,earth,earth,earth,earth,earth
+44.0,summittit,puts forth,submit,affords,spreads,puts,bears,puts
+45.0,flores,"a blossom, flower",flowers,flowers,flowers,flowers,flowers,flowers
+46.0,tibi,"you (fem, dat)",thy,thee,thy,thee,thee,thee
+47.0,rident,"to smile, to laugh (3rd plural)",smile,smiles,smile,laugh,smile,smile
+48.0,aequora,"even surface, level (acc)",smooth,0,plains,levels,waters,levels
+49.0,ponti,the sea / bridge,seas,sea’s,ocean,sea,deep,ocean
+50.0,placatumque,"to quiet, soothe, appease (sg, perf)",0,smooth,placid,propitiated,serene,0
+51.0,nitet,to shine (3rd sg),0,shines,shine,shines,glow,gleams
+52.0,diffuso,"to spread, pour out",0,diffused,diffused,outspread,diffused,spreading
+53.0,lumine,"light (sg, abl)",0,light,light,light,radiance,light
+54.0,caelum,celestial,heavens,sky,sky,heaven,sky,sky
+55.0,nam,for,for,for,0,for,for,for
+56.0,simul,"at the same time, together, at once",when,when,soon,soon,soon,when
+57.0,ac,and (from atque),0,0,0,0,0,0
+58.0,species,"face, a sight, look, view (sg fem, nom)",0,0,0,aspect,face,face
+59.0,patefactast,"to lay open, open",brings,leads,unlocks,disclosed,comes,revealed
+60.0,verna,of spring (adj sg fem),springs,spring,vernal,vernal,springtime,spring
+61.0,diei,"day (sg, masc gen)",day,0,day,day,day,day
+62.0,et,and  ,and,0,0,and,0,0
+63.0,reserata,to take by storm,gales,unlock’d,fecundating,blowing,gales,0
+64.0,viget,"to be lively, be vigorous, thrive",kindely,fresh,breath,fresh,0,0
+65.0,genitabilis,of (adj sg masc gen),genial,genial,0,birth-favoring,procreant,teeming
+66.0,aura,"wind, air (in motion), a breeze, wind",0,winds,breathe,breeze,blow,wind
+67.0,favoni, the west wind (Favonius),west,western,zephyrs,favonius,west,west
+68.0,aeriae,airy (adj),aery,airy,aerial,air,air,0
+69.0,primum,"the first, first",first,first,0,first,first,first
+70.0,volucris,  birds (noun pl fem acc),birds,birds,birds,fowls,fowls,birds
+71.0,te,you (acc),thee,thee,0,o,thou,thee
+72.0,diva,a goddess  / deity,goddess,goddess,goddess,lady,divine,goddess
+73.0,tuumque,you / yours (adj sg neut voc),thine,0,thy,thy,thy,thine
+74.0,significant,"to show, signify",0,0,herald,signs,foretoken,0
+75.0,initum,"to go into, enter",approach,0,approach,entering,approach,approach
+76.0,perculsae,"throw down, overturn, ",touch,strikes,smit,smitten,smit,thrilled
+77.0,corda,the heart,brest,souls,0,heart,heart,hearts
+78.0,tua,"yours, of you (adj sg fem abl)",thy,thy,thy,thy,0,thy
+79.0,vi,"strength, force, power, virtue",powr,power,power,power,0,might
+80.0,inde,"Of place, from that place, thence",then,then,0,next,0,then
+81.0,ferae,"a wild beast, wild animal",savage,savage,untamed,wild,wild,wild
+82.0,pecudes,cattle,bruits,beasts,herds,herds,herds,beasts
+83.0,persultant,"to leap about, range through",jump,frisk,bound,bound,leap,bound
+84.0,pabula," fodder, pasturage, grass",meads,fields,pastures,pastures,fields,pastures
+85.0,laeta,"joyful, cheerful, glad,",flowry,cheerful,glad,glad,happy,fat
+86.0,et,and,0,0,0,0,or,and
+87.0,rapidos,"tearing away, seizing, fierce",0,rapid,rapid,rapid,bounding,racing
+88.0,tranant,"to swim over, swim across,",take,swim,swim,swim,swim,swim
+89.0,amnis,river,streams,streams,streams,rivers,torrents,rivers
+90.0,ita,"thus, so",where,so,thus,such,thus,so
+91.0,capta,"captivated, taken",0,pleased,captive,prisoner,seized,enchained
+92.0,lepore,charm,beauty,charms,charms,charms,spell,charm
+93.0,te,yours,thy,thy,thy,thy,thee,0
+94.0,sequitur,follows,0,follow,follow,follows,follow,follows
+95.0,cupide,"eagerly, passionately",eager,desire,eager,desire,0,desire
+96.0,quo,where,0,where,wheresoe'er,whither,whithersoever,whither
+97.0,quamque,and how,0,0,0,0,0,0
+98.0,inducere,"introduce, lead",leads,lead,leads,lead,lead,lead
+99.0,pergis,"to go, travel",goe,0,0,goest,walkest,goest
+100.0,denique,Finally,lastly,0,then,0,thence,0
+101.0,per,by ,through,in,through,throughout,through,through
+102.0,maria,seas,seas,seas,seas,seas,seas,seas
+103.0,ac,and (from atque),and,in,0,0,0,and
+104.0,montis,mountain,hills,mountains,mountains,mountains,mountains,mountains
+105.0,fluviosque,rivers,rivers,floods,streams,rivers,streams,rivers
+106.0,rapacis,"rapid, current, rapacious",rapid,swiftest,0,sweeping,swift,tearing
+107.0,frondiferasque,leafy,leafie,leafy,leafy,leafy,leafy,leafy
+108.0,domos,houses,roosts,forests,home,homes,homes,haunts
+109.0,avium,birds,birds,0,birds,birds,birds,birds
+110.0,camposque,plains,field,plains,plains,plains,plains,plains
+111.0,virentis,green,verdant,verdant,verdant,grassy,greening,verdant
+112.0,omnibus,everybody,every,every,every,all,every,all
+113.0,incutiens,strike,infuse,inspiring,infusing,striking,kindling,strike
+114.0,blandum,"soothing, seductive",soft,tender,gentle,fond,lure,fond
+115.0,per,through,0,0,to,into,0,into
+116.0,pectora,the chests,breast,breast,breast,breasts,breast,hearts
+117.0,amorem,love,flames,love,love,love,love,love
+118.0,efficis, succeed (you),0,drives,causest,constrainest,bringest,makest
+119.0,ut,that,0,0,0,0,0,0
+120.0,cupide,eagerly,0,heat,glad,desire,0,desire
+121.0,generatim,"kind, specie",off-spring,kind,tribes,kind,kind,kind
+122.0,saecla,"for generations, for years",age,age,0,races,generations,races
+123.0,propagent,"propagate, teem,",renews,propagate,renewal,continue,0,renew
+124.0,quae,because,since,since,since,since,since,since
+125.0,quoniam,because (for),0,0,0,0,0,0
+126.0,rerum,things,0,0,0,0,0,things
+127.0,naturam,nature,nature,nature’s,nature,0,cosmos,nature
+128.0,sola,alone,sole,alone,alone,sole,alone,alone
+129.0,gubernas,govern,reign,govern,rulest,mistress,guidest,pilot
+130.0,nec,nothing,ought,nothing,nor,0,0,nothing
+131.0,sine,without,without,without,without,without,without,without
+132.0,te,you (acc),thee,thee,thee,thee,thee,thine
+133.0,quicquam,anything,0,0,aught,nothing,naught,0
+134.0,dias,"dea, of deity",0,0,0,0,0,0
+135.0,in,in,0,0,0,0,0,0
+136.0,luminis,of light,light,light,light,light,light,light
+137.0,oras,edges,0,0,0,borders,shores,coasts
+138.0,exoritur,arise,0,rise,arise,rises,risen,comes
+139.0,neque,nothing,0,nothing,aught,nothing,0,0
+140.0,fit,becomes,0,can,be,grows,0,0
+141.0,laetum,happy,frolick,gay,joyous,glad,joyful,glad
+142.0,neque,nothing,0,0,0,0,0,nor
+143.0,amabile,lovable,pleasant,lovely,lovely,lovely,lovely,lovely
+144.0,quicquam,anything,0,0,aught,0,0,0
+145.0,te,you (acc),thine,thee,thou,thee,thee,thou
+146.0,sociam,"be with, friend, associate,",ayde,companion,companion,helpmate,co-partner,helper
+147.0,studeo,studying,studious,0,0,0,0,0
+148.0,scribendis,to write (writing),0,0,0,writing,0,writing
+149.0,versibus,verses,0,lays,verse,verses,verse,verses
+150.0,esse,are,0,0,be,0,0,be
+151.0,quos,whom,which,which,which,which,which,which
+152.0,ego,I,i,i,i,i,i,i
+153.0,de,about,of,of,on,of,on,of
+154.0,rerum,things,works,0,things,things,0,things
+155.0,natura,nature,natures,nature,nature,nature,nature,nature
+156.0,pangere,"to make, compose, write",essay,sing,0,essay,0,essay
+157.0,conor,try,0,0,0,0,0,0
+158.0,memmiadae,Memmius,memmius,memmius,memmius,memmii,memmius,memmii
+159.0,nostro,our,0,my,0,our,0,my
+160.0,quem,whom,who,whom,whom,whom,whom,whom
+161.0,tu,you,thee,thou,thou,thou,thou,thou
+162.0,dea,goddess,goddess,goddess,goddess,goddess,0,goddess
+163.0,tempore,times,0,ever,0,ever,0,0
+164.0,in,in,0,0,0,0,0,through
+165.0,omni,all,eternal,every,every,every,every,all
+166.0,omnibus,"all, everything",0,0,0,0,every,every
+167.0,ornatum," prepare, ornate, decorated, supply",0,adorn,adorned,0,0,bright
+168.0,voluisti,(you) wanted,0,0,0,willed,willed,willed
+169.0,excellere,excell in,excell,grace,excel,peer,peerless,grace
+170.0,rebus,things,0,0,0,0,0,0
+171.0,quo,"where, for, why",0,0,0,wherefore,0,therefore
+172.0,magis,more,0,0,rather,more,0,more
+173.0,aeternum,eternal,0,immortal,immortal,everliving,immortal,0
+174.0,da,give,0,give,give,lend,0,0
+175.0,dictis,words,flow,verse,words,lays,words,words
+176.0,diva,goddess,0,deity,goddess,lady,divine,goddess
+177.0,leporem,charm,0,beauty,grace,charm,charm,loveliness
+178.0,effice,"make, create, succeed",0,0,cause,cause,0,0
+179.0,ut,in,0,0,0,0,0,0
+180.0,interea,meantime,0,0,meanwhile,meanwhile,0,meantime
+181.0,fera,beast,0,bloody,fierce,savage,savage,wild
+182.0,moenera,"rewards, gift, duty",0,tumults,arts,works,works,works
+183.0,militiai,of war,wars,war,war,war,war,warfare
+184.0,per,for,by,by,throughout,throughout,o'er,over
+185.0,maria,seas,seas,sea,seas,seas,sea,seas
+186.0,ac,and,and,and,and,and,and,and
+187.0,terras,earth,land,land,lands,lands,land,lands
+188.0,omnis,"all, everybody",0,0,all,all,0,0
+189.0,sopita,"sleep, repose",peace,asleep,rest,rest,rest,sleep
+190.0,quiescant,"sleep, repose, calmly, quietly",0,compose,hushed,lulled,0,lulled
+191.0,nam,for,0,for,for,for,for,for
+192.0,tu,you,thou,thou,thou,thou,thou,thou
+193.0,sola,only,alone,alone,alone,alone,alone,only
+194.0,potes,can,canst,canst,canst,canst,hast,canst
+195.0,tranquilla,tranquil,0,quiet,tranquil,calm,0,quiet
+196.0,pace,peace,rest,peace,peace,peace,peace,peace
+197.0,iuvare,help,0,bless,bless,bless,aid,bless
+198.0,mortalis,"mortals, humans",0,mankind,mortals,mankind,mortality,mortal
+199.0,quoniam,"for, since",since,because,since,that,since,since
+200.0,belli,war,wars,war,war,war,battle,war
+201.0,fera,beast,direful,bloody,0,savage,savage,wild
+202.0,moenera,0,0,tumults,0,works,works,works
+203.0,mavors,Mars,mars,mars,mars,mavors,mars,mavors
+204.0,armipotens,in arms powerful,0,armipotent,potent,lord,puissant,lord
+205.0,regit,"to rule, to govern",lord,rules,rules,controls,rules,guides
+206.0,in,in,on,in,upon,into,to,upon
+207.0,gremium,"lap, bossom",bosom,lap,bosom,lap,bosom,lap
+208.0,qui,who,0,0,who,who,0,0
+209.0,saepe,often,oft,0,oft,often,often,oft
+210.0,tuum,yours,0,0,thy,0,0,thy
+211.0,se,himself,his,he,0,himself,his,himself
+212.0,reiicit,rejects,resting,0,o'erpowered,flings,flings,flings
+213.0,aeterno,"forever, eternal",lasting,everlasting,eternal,never-healing,eternal,eternal
+214.0,devictus,"defeated, conquered",vanquished,bound,bound,vanquished,o'ermastered,conquered
+215.0,vulnere,wound,wounds,pains,wound,wound,wound,wound
+216.0,amoris,of love,love,love,love's,love,love,love
+217.0,atque,and,0,0,0,0,and,and
+218.0,ita,so ,0,0,thence,then,there,then
+219.0,suspiciens,looking up,bending,back,looking,upturned,backward,pillowing
+220.0,tereti,round,round,long,rounded,shapely,full,shapely
+221.0,cervice,the neck,neck,neck,neck,neck,throat,neck
+222.0,reposta,"put down, to place, deposit",lyes,0,turned,thrown,0,0
+223.0,pascit,feeds,feeds,sucks,feeding,feeds,0,feeds
+224.0,amore,love ,amorous,love,love,love,love,with
+225.0,avidos,"greedy, avid",greedy,greedily,0,greedy,greedy,greedy
+226.0,inhians,"eager, gaping, yearning (open mouth)",passion,0,apart,open-mouthed,open-mouthed,0
+227.0,in,in,0,0,0,on,0,0
+228.0,te,you (acc),0,thy,0,thee,thee,thee
+229.0,dea,goddess,0,0,0,goddess,goddess,0
+230.0,visus,see / sight,0,views,gaze,sight,sight,gazing
+231.0,eque,0,0,0,0,0,0,0
+232.0,tuo,yours,0,0,0,0,0,0
+233.0,pendet,"hang, suspend",plac'd,hangs,suspends,reclines,0,lies
+234.0,resupini,"bent back, lying on back, supine, reclined",0,supinely,0,backward,0,back
+235.0,spiritus,breath of,soul,soul,breath,breath,breath,breath
+236.0,ore,mouth,0,lips,mouth,0,lips,lips
+237.0,hunc,him,0,he,0,0,him,he
+238.0,tu,you,0,0,0,0,0,thou
+239.0,diva,goddess,0,god,0,lady,0,goddess
+240.0,tuo,on your,0,thy,0,thy,0,thy
+241.0,recubantem,reclining,0,cling,recumbent,reposing,reclined,leans
+242.0,corpore,body,arms,limbs,form,body,body,limbs
+243.0,sancto,holy,sacred,heavenly,sacred,holy,holy,sacred
+244.0,circum,"round, around",0,round,0,about,round,0
+245.0,fusa,"to pour out, to shed | | round, spindle, spinning wheel ?",0,0,pour,shed,pour,pour
+246.0,super,"on top, above",0,0,0,above,above,0
+247.0,suavis,"sweet, grateful",sweet,soft,sweet,sweet,soft,sweet
+248.0,ex,from,0,0,from,from,from,from
+249.0,ore,mouth,lips,0,lips,lips,lips,lips
+250.0,loquellas,"speech, words, chatter",accents,eloquence,words,discourse,syllables,petition
+251.0,funde,"to pour out, to shed",0,0,0,0,0,0
+252.0,petens,"seek, look for",require,implore,Imploring,asking,win,seeking
+253.0,placidam,"a mild, placid",happy,0,placid,gentle,0,gentle
+254.0,romanis,Romans,rome,rome,Rome,romans,romans,romans
+255.0,incluta,"celebrated, famous, glorious",0,0,0,0,glorious,0
+256.0,pacem,peace,peace,peace,peace,peace,peace,peace
+257.0,nam,for,for,for,For,for,for,for
+258.0,neque,neither,0,neither,neither,neither,neither,neither
+259.0,nos,of us,we,i,I,we,i,we
+260.0,agere,"to act, lead, move",philosophize,write,pursue,think,attend,set
+261.0,hoc,"here, in this place",0,0,0,0,0,0
+262.0,patriai,fatherland,countrey,0,country's,country’s,state,country’s
+263.0,tempore,times,whilst,times,hours,day,season,time
+264.0,iniquo,"uneven, unjust, evil, wicked",afflicted,sad,adverse,trouble,troublous,trouble
+265.0,possumus,can,can,can,Can,can,may,can
+266.0,aequo,equally,0,cheerful,tranquil,untroubled,untroubled,undistressed
+267.0,animo,animated,0,strains,mind,mind,thought,mind
+268.0,nec,not,0,nor,Nor,nor,nor,nor
+269.0,memmi,Memmii,memmius,memmius,Memmian,memmius,memmian,memmius’s
+270.0,clara,bright,brave,noble,stock,illustrious,illustrious,noble
+271.0,propago,"propagate, increase, flourish",0,house,scion,offset,scion,son
+272.0,talibus,such,such,such,0,0,this,0
+273.0,in,in ,in,in,0,0,0,0
+274.0,rebus,things,perplexitie,things,0,0,task,task
+275.0,communi,"common, societal, of society",publike,common,common,general,civic,state
+276.0,desse,"missing, in need, wanting",wanting,distress,wanting,wanting,neglect,fail
+277.0,saluti,"welfare, health",peace,good,weal,weal,cause,fortunes

@@ -1,0 +1,539 @@
+01_latin_order,02_latin_tokens,03_eng_direct_tokens,1656_en,1656_order,1656_order_diff,1743_en,1743_order,1743_order_diff,1872_en,1872_order,1872_order_diff,1886_en,1886_order,1886_order_diff,1916_en,1916_order,1916_order_diff,1936_en,1936_order,1936_order_diff
+1.0,aeneadum,Aenea,romes,1.0,0.0,mother,2.0,-1.0,mother,2.0,-1.0,mother,2.0,-1.0,mother,2.0,-1.0,mother,2.0,-1.0
+2.0,genetrix,mother,parent,2.0,0.0,of,,,of,,,of,,,of,,,of,,
+3.0,hominum,human,venus,7.0,-4.0,rome,1.0,2.0,romans,1.0,2.0,the,,,rome,1.0,2.0,aeneas’s,1.0,2.0
+4.0,divomque,godly,joy,5.0,-1.0,delight,5.0,-1.0,joy,5.0,-1.0,aeneadae,1.0,3.0,delight,5.0,-1.0,sons,,
+5.0,voluptas,delight,of,,,of,,,of,,,darling,5.0,0.0,of,,,joy,5.0,0.0
+6.0,alma,nourishing,gods,4.0,2.0,men,3.0,3.0,men,3.0,3.0,of,,,gods,4.0,2.0,of,,
+7.0,venus,Venus,above,,,and,,,and,,,men,3.0,4.0,and,,,men,3.0,4.0
+8.0,caeli,celestial,and,,,gods,4.0,4.0,gods,4.0,4.0,and,,,men,3.0,5.0,and,,
+9.0,subter,underneath,men,3.0,6.0,sweet,6.0,3.0,benignant,6.0,3.0,gods,4.0,5.0,dear,6.0,3.0,gods,4.0,5.0
+10.0,labentia,to glide,who,,,venus,7.0,3.0,venus,7.0,3.0,increase-giving,6.0,4.0,venus,7.0,3.0,venus,7.0,3.0
+11.0,signa,mark,under,9.0,2.0,who,12.0,-1.0,thou,,,venus,7.0,4.0,that,12.0,-1.0,the,,
+12.0,quae,who,those,,,with,,,whose,,,who,12.0,0.0,beneath,9.0,3.0,life-giver,6.0,6.0
+13.0,mare,sea,bright,,,vital,,,presence,,,beneath,9.0,4.0,the,,,who,12.0,1.0
+14.0,navigerum,Ship-bearing,signs,11.0,3.0,power,,,fills,,,the,,,gliding,10.0,4.0,beneath,9.0,5.0
+15.0,quae,who,that,,,dost,,,all,,,gliding,10.0,5.0,stars,8.0,7.0,the,,
+16.0,terras,earth,move,10.0,6.0,fill,,,things,,,signs,11.0,5.0,makest,,,gliding,10.0,6.0
+17.0,frugiferentis,fruitbearing,in,,,the,,,beneath,9.0,8.0,of,,,to,,,stars,11.0,6.0
+18.0,concelebras,celebrate,heaven,8.0,10.0,sea,13.0,5.0,the,,,heaven,8.0,10.0,teem,,,of,,
+19.0,per,across,dost,,,bearing,14.0,5.0,gliding,10.0,9.0,fillest,,,the,,,heaven,8.0,11.0
+20.0,te,you (acc),all,,,the,,,signs,11.0,9.0,with,,,many-voyaged,,,fillest,,
+21.0,quoniam, since then / because,comfort,,,ships,,,of,,,thy,,,main,,,with,,
+22.0,genus,"origin, race, stock",bring,,,the,,,heaven,8.0,14.0,presence,,,and,,,life,,
+23.0,omne,"all, every",and,,,fruitful,17.0,6.0,throughout,,,the,,,fruitful,17.0,6.0,the,,
+24.0,animantum,,mirth,,,earth,16.0,8.0,ship-bearing,14.0,10.0,ship-carrying,14.0,10.0,lands,16.0,8.0,sea,13.0,11.0
+25.0,concipitur,"take up, take in, take",to,,,all,,,seas,13.0,12.0,sea,13.0,12.0,--,,,that,,
+26.0,visitque,"to look, view",the,,,things,,,corn-bearing,17.0,9.0,the,,,for,21.0,5.0,carries,14.0,12.0
+27.0,exortum,"to come out, rise, appear",ship-bearing,14.0,13.0,beneath,9.0,18.0,lands,16.0,11.0,corn-bearing,17.0,10.0,all,23.0,4.0,the,,
+28.0,lumina,light,seas,13.0,15.0,the,,,—,,,lands,16.0,12.0,of,,,ships,,
+29.0,solis,sun,corn-bearing,17.0,12.0,rolling,10.0,19.0,since,21.0,8.0,since,21.0,8.0,living,24.0,5.0,and,,
+,,,earth,16.0,,signs,11.0,,'tis,,,through,19.0,,things,22.0,,the,,
+,,,by,19.0,,of,,,through,19.0,,thee,20.0,,through,19.0,,land,16.0,
+,,,thee,20.0,,heaven,8.0,,thy,20.0,,every,23.0,,thee,20.0,,that,15.0,
+,,,conceiv'd,25.0,,for,21.0,,soft,,,kind,22.0,,alone,,,bears,17.0,
+,,,since,21.0,,‘tis,,,influence,,,of,,,are,,,the,,
+,,,all,23.0,,by,19.0,,conceived,25.0,,living,24.0,,evermore,,,crops,,
+,,,things,22.0,,thee,20.0,,all,23.0,,things,,,conceived,25.0,,for,21.0,
+,,,living,24.0,,creatures,24.0,,living,24.0,,is,,,through,,,thanks,,
+,,,be,,,of,,,things,22.0,,conceived,25.0,,thee,,,to,,
+,,,beholding,26.0,,every,23.0,,rise,27.0,,rises,27.0,,are,,,thee,20.0,
+,,,the,,,kind,22.0,,to,,,up,,,risen,27.0,,every,23.0,
+,,,suns,29.0,,conceive,25.0,,behold,26.0,,and,,,to,,,tribe,22.0,
+,,,light,28.0,,rise,27.0,,the,,,beholds,26.0,,visit,,,of,,
+,,,,,,into,,,light,28.0,,the,,,the,,,living,24.0,
+,,,,,,life,,,—,,,light,28.0,,great,,,things,,
+,,,,,,and,,,,,,of,,,sun,29.0,,is,,
+,,,,,,view,26.0,,,,,the,,,--,,,conceived,25.0,
+,,,,,,the,,,,,,sun,29.0,,,,,and,,
+,,,,,,sun’s,29.0,,,,,,,,,,,comes,27.0,
+,,,,,,bright,,,,,,,,,,,,forth,,
+,,,,,,beams,28.0,,,,,,,,,,,to,,
+,,,,,,,,,,,,,,,,,,look,26.0,
+,,,,,,,,,,,,,,,,,,upon,,
+,,,,,,,,,,,,,,,,,,the,,
+,,,,,,,,,,,,,,,,,,light,28.0,
+,,,,,,,,,,,,,,,,,,of,,
+,,,,,,,,,,,,,,,,,,the,,
+,,,,,,,,,,,,,,,,,,sun,29.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+30.0,te,you (acc),the,,,thee,30.0,0.0,before,,,before,,,before,,,thou,30.0,0.0
+31.0,dea,goddess,winds,34.0,-3.0,goddess,31.0,0.0,thee,30.0,1.0,thee,30.0,1.0,thee,30.0,1.0,goddess,31.0,0.0
+32.0,te,you (acc),do,,,thee,32.0,0.0,goddess,31.0,1.0,goddess,31.0,1.0,goddess,31.0,1.0,thou,32.0,0.0
+33.0,fugiunt,"fly, take flight",flee,33.0,0.0,the,,,thee,32.0,1.0,flee,33.0,0.0,and,,,dost,,
+34.0,venti,winds // ? to come (gen/voc),o,30.0,4.0,winds,34.0,0.0,the,,,the,,,thy,39.0,-5.0,turn,33.0,1.0
+35.0,te,you (acc),goddess,31.0,4.0,avoid,,,winds,34.0,1.0,winds,34.0,1.0,coming,38.0,-3.0,to,,
+36.0,nubila,clouds,and,,,the,,,are,,,the,,,on,,,flight,,
+37.0,caeli,celestial,the,,,clouds,36.0,1.0,hushed,33.0,4.0,clouds,36.0,1.0,flee,33.0,4.0,the,,
+38.0,adventumque,"to reach, arrive at",clouds,36.0,2.0,fly,33.0,5.0,before,,,of,,,stormy,,,winds,34.0,4.0
+39.0,tuum,yours (acc),which,,,thee,35.0,4.0,thy,39.0,0.0,heaven,37.0,2.0,wind,34.0,5.0,and,,
+,,,skies,37.0,,and,,,coming,38.0,,before,,,and,,,the,,
+,,,benight,,,thy,39.0,,are,,,thee,35.0,,massy,,,clouds,36.0,
+,,,are,,,approach,38.0,,the,,,and,,,cloud,36.0,,of,,
+,,,dissipated,,,,,,clouds,36.0,,thy,39.0,,away,,,heaven,37.0,
+,,,when,,,,,,dispersed,,,advent,38.0,,,,,thou,,
+,,,thou,39.0,,,,,,,,,,,,,,,,
+,,,com'st,38.0,,,,,,,,,,,,,,,,
+,,,in,,,,,,,,,,,,,,,,,
+,,,sight,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,at,,
+,,,,,,,,,,,,for,,,for,,,thy,39.0,
+40.0,tibi,"you (fem, dat)",smooth,48.0,-8.0,with,,,the,,,thee,40.0,0.0,thee,40.0,0.0,coming,38.0,2.0
+41.0,suavis,"sweet, agreeable, grateful",seas,49.0,-8.0,various,,,plastic,42.0,-1.0,earth,43.0,-2.0,the,,,,,
+42.0,daedala,skilful / Daedalus,and,,,art,42.0,0.0,earth,43.0,-1.0,manifold,42.0,0.0,daedal,42.0,0.0,for,,
+43.0,tellus,"the earth, globe",heavens,54.0,-11.0,the,,,spreads,44.0,-1.0,in,,,earth,43.0,0.0,thee,40.0,3.0
+44.0,summittit,puts forth,smile,47.0,-3.0,earth,43.0,1.0,flowers,45.0,-1.0,works,,,bears,44.0,0.0,earth,43.0,1.0
+45.0,flores,"a blossom, flower",under,,,for,,,before,,,puts,44.0,1.0,scented,41.0,4.0,the,,
+46.0,tibi,"you (fem, dat)",thy,46.0,0.0,thee,40.0,6.0,thy,46.0,0.0,forth,,,flowers,45.0,1.0,quaint,42.0,4.0
+47.0,rident,"to smile, to laugh (3rd plural)",feet,,,affords,44.0,3.0,feet,,,sweet-smelling,41.0,6.0,for,,,artificer,,
+48.0,aequora,"even surface, level (acc)",th'inamel'd,42.0,6.0,her,,,thy,,,flowers,45.0,3.0,thee,46.0,2.0,puts,44.0,4.0
+49.0,ponti,the sea / bridge,earth,43.0,6.0,sweetest,41.0,8.0,presence,,,for,,,waters,48.0,1.0,forth,,
+50.0,placatumque,"to quiet, soothe, appease (sg, perf)",doth,,,flowers,45.0,5.0,makes,,,thee,46.0,4.0,of,,,her,,
+51.0,nitet,to shine (3rd sg),her,,,for,,,the,,,the,,,the,,,sweet-scented,41.0,10.0
+52.0,diffuso,"to spread, pour out",sweet,41.0,11.0,thee,46.0,6.0,plains,48.0,4.0,levels,48.0,4.0,unvexed,,,flowers,45.0,7.0
+53.0,lumine,"light (sg, abl)",flowers,45.0,8.0,the,,,of,,,of,,,deep,49.0,4.0,for,,
+54.0,caelum,celestial,submit,44.0,10.0,sea’s,49.0,5.0,ocean,49.0,5.0,the,,,smile,47.0,7.0,thee,46.0,8.0
+,,,,,,rough,,,smile,47.0,,sea,49.0,,and,,,the,,
+,,,,,,waves,,,the,,,do,,,the,,,levels,48.0,
+,,,,,,put,,,sky,54.0,,laugh,47.0,,hollows,,,of,,
+,,,,,,on,,,shine,51.0,,and,,,of,,,ocean,49.0,
+,,,,,,their,,,placid,50.0,,heaven,54.0,,the,,,smile,47.0,
+,,,,,,smiles,47.0,,with,,,propitiated,50.0,,serene,50.0,,and,,
+,,,,,,and,,,diffused,52.0,,shines,51.0,,sky,54.0,,the,,
+,,,,,,the,,,light,53.0,,with,,,glow,51.0,,sky,54.0,
+,,,,,,smooth,50.0,,,,,outspread,52.0,,with,,,its,,
+,,,,,,sky,54.0,,,,,light,53.0,,diffused,52.0,,anger,,
+,,,,,,shines,51.0,,,,,,,,radiance,53.0,,past,,
+,,,,,,with,,,,,,,,,,,,gleams,51.0,
+,,,,,,diffused,52.0,,,,,,,,,,,with,,
+,,,,,,light,53.0,,,,,,,,,,,spreading,52.0,
+,,,,,,,,,,,,,,,,,,light,53.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+55.0,nam,for,for,55.0,0.0,for,55.0,0.0,soon,56.0,-1.0,for,55.0,0.0,for,,,for,55.0,0.0
+56.0,simul,"at the same time, together, at once",when,56.0,0.0,when,56.0,0.0,as,,,soon,56.0,0.0,thee,,,when,56.0,0.0
+57.0,ac,and (from atque),the,,,the,,,the,,,as,,,for,55.0,2.0,once,,
+58.0,species,"face, a sight, look, view (sg fem, nom)",springs,60.0,-2.0,buxom,,,vernal,60.0,-2.0,the,,,soon,56.0,2.0,the,,
+59.0,patefactast,"to lay open, open",return,,,spring,60.0,-1.0,day,61.0,-2.0,vernal,60.0,-1.0,as,,,face,58.0,1.0
+60.0,verna,of spring (adj sg fem),brings,59.0,1.0,leads,59.0,1.0,unlocks,59.0,1.0,aspect,58.0,2.0,comes,59.0,1.0,of,,
+61.0,diei,"day (sg, masc gen)",the,,,on,,,the,,,of,,,the,,,the,,
+62.0,et,and  ,clear,,,the,,,year,,,day,61.0,1.0,springtime,60.0,2.0,spring,60.0,2.0
+63.0,reserata,to take by storm,day,61.0,2.0,year,,,and,,,is,,,face,58.0,5.0,day,61.0,2.0
+64.0,viget,"to be lively, be vigorous, thrive",and,62.0,2.0,and,,,zephyrs,67.0,-3.0,disclosed,59.0,5.0,of,,,is,,
+65.0,genitabilis,of (adj sg masc gen),genial,65.0,0.0,genial,65.0,0.0,breathe,66.0,-1.0,and,62.0,3.0,day,61.0,4.0,revealed,59.0,6.0
+66.0,aura,"wind, air (in motion), a breeze, wind",west,67.0,-1.0,gales,,,their,,,the,,,and,,,and,,
+67.0,favoni, the west wind (Favonius),with,,,of,,,fecundating,63.0,4.0,birth-favoring,65.0,2.0,procreant,65.0,2.0,the,,
+68.0,aeriae,airy (adj),kindely,64.0,4.0,western,67.0,1.0,breath,64.0,4.0,breeze,66.0,2.0,gales,63.0,5.0,teeming,65.0,3.0
+69.0,primum,"the first, first",gales,63.0,6.0,winds,66.0,3.0,the,,,of,,,blow,66.0,3.0,breeze,,
+70.0,volucris,  birds (noun pl fem acc),doth,,,blow,,,aerial,68.0,2.0,favonius,67.0,3.0,from,,,of,,
+71.0,te,you (acc),play,,,fresh,64.0,7.0,birds,70.0,1.0,unbarred,,,the,,,the,,
+72.0,diva,a goddess  / deity,first,69.0,3.0,unlock’d,63.0,9.0,smit,76.0,-4.0,is,,,west,67.0,5.0,west,67.0,5.0
+73.0,tuumque,you / yours (adj sg neut voc),aery,68.0,5.0,from,,,by,,,blowing,63.0,10.0,unbarred,,,wind,66.0,7.0
+74.0,significant,"to show, signify",birds,70.0,4.0,winter’s,,,thy,78.0,-4.0,fresh,64.0,10.0,first,69.0,5.0,is,,
+75.0,initum,"to go into, enter",whose,,,cold,,,genial,,,first,69.0,6.0,fowls,70.0,5.0,loosed,,
+76.0,perculsae,"throw down, overturn, ",brest,77.0,-1.0,the,,,power,79.0,-3.0,the,,,of,,,from,,
+77.0,corda,the heart,thy,78.0,-1.0,airy,68.0,9.0,goddess,72.0,5.0,fowls,70.0,7.0,air,68.0,9.0,prison,,
+78.0,tua,"yours, of you (adj sg fem abl)",powr,79.0,-1.0,birds,70.0,8.0,divine,,,of,,,smit,76.0,2.0,and,,
+79.0,vi,"strength, force, power, virtue",doth,,,first,69.0,10.0,blithe,,,the,,,to,,,blows,,
+,,,touch,76.0,,feel,,,herald,74.0,,air,68.0,,the,,,strong,,
+,,,chant,,,thee,71.0,,thy,73.0,,o,71.0,,heart,77.0,,first,69.0,
+,,,forth,,,goddess,72.0,,approach,75.0,,lady,72.0,,by,,,the,,
+,,,o,,,and,,,,,,show,,,thee,,,birds,70.0,
+,,,goddess,72.0,,express,,,,,,signs,74.0,,foretoken,74.0,,in,,
+,,,thee,71.0,,thy,78.0,,,,,of,,,thy,73.0,,high,,
+,,,&,,,power,79.0,,,,,thee,,,approach,75.0,,heaven,,
+,,,thine,73.0,,thy,,,,,,and,,,o,,,herald,,
+,,,approach,75.0,,active,,,,,,thy,73.0,,thou,71.0,,thee,71.0,
+,,,,,,flame,,,,,,entering,75.0,,divine,72.0,,goddess,72.0,
+,,,,,,strikes,76.0,,,,,in,,,,,,and,,
+,,,,,,though,,,,,,thoroughly,,,,,,thine,73.0,
+,,,,,,their,,,,,,smitten,76.0,,,,,approach,75.0,
+,,,,,,very,,,,,,in,,,,,,their,,
+,,,,,,souls,77.0,,,,,heart,77.0,,,,,hearts,77.0,
+,,,,,,,,,,,,by,,,,,,thrilled,76.0,
+,,,,,,,,,,,,thy,78.0,,,,,with,,
+,,,,,,,,,,,,power,79.0,,,,,thy,78.0,
+,,,,,,,,,,,,,,,,,,might,79.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+80.0,inde,"Of place, from that place, thence",then,80.0,0.0,and,,,the,,,next,80.0,0.0,and,,,then,80.0,0.0
+81.0,ferae,"a wild beast, wild animal",savage,81.0,0.0,then,80.0,1.0,untamed,81.0,0.0,the,,,leap,83.0,-2.0,the,,
+82.0,pecudes,cattle,bruits,82.0,0.0,the,,,herds,82.0,0.0,wild,81.0,1.0,the,,,tame,,
+83.0,persultant,"to leap about, range through",jump,83.0,0.0,savage,81.0,2.0,o'er,,,herds,82.0,1.0,wild,81.0,2.0,beasts,82.0,1.0
+84.0,pabula," fodder, pasturage, grass",ore,,,beasts,82.0,2.0,the,,,bound,83.0,1.0,herds,82.0,2.0,grow,,
+85.0,laeta,"joyful, cheerful, glad,",the,,,with,,,glad,85.0,0.0,over,,,round,,,wild,81.0,4.0
+86.0,et,and,flowry,85.0,1.0,wanton,,,pastures,84.0,2.0,the,,,the,,,and,86.0,0.0
+87.0,rapidos,"tearing away, seizing, fierce",meads,84.0,3.0,play,,,bound,83.0,4.0,glad,85.0,2.0,happy,85.0,2.0,bound,83.0,4.0
+88.0,tranant,"to swim over, swim across,",or,,,frisk,83.0,5.0,and,,,pastures,84.0,4.0,fields,84.0,4.0,over,,
+89.0,amnis,river,take,88.0,1.0,o’er,,,swim,88.0,1.0,and,,,or,86.0,3.0,the,,
+90.0,ita,"thus, so",the,,,the,,,the,,,swim,88.0,2.0,swim,88.0,2.0,fat,85.0,5.0
+91.0,capta,"captivated, taken",streams,89.0,2.0,cheerful,85.0,6.0,rapid,87.0,4.0,the,,,the,,,pastures,84.0,7.0
+92.0,lepore,charm,where,90.0,2.0,fields,84.0,8.0,streams,89.0,3.0,rapid,87.0,5.0,bounding,87.0,5.0,and,,
+93.0,te,yours,ere,,,and,,,thus,90.0,3.0,rivers,89.0,4.0,torrents,89.0,4.0,swim,88.0,5.0
+94.0,sequitur,follows,thy,93.0,1.0,swim,88.0,6.0,by,,,in,,,thus,90.0,4.0,the,,
+95.0,cupide,"eagerly, passionately",beauty,92.0,3.0,the,,,thy,93.0,2.0,such,90.0,5.0,amain,,,racing,87.0,8.0
+96.0,quo,where,leads,98.0,-2.0,rapid,87.0,9.0,charms,92.0,4.0,wise,,,seized,91.0,5.0,rivers,89.0,7.0
+97.0,quamque,and how,each,,,streams,89.0,8.0,ta'en,,,each,,,with,,,so,90.0,7.0
+98.0,inducere,"introduce, lead",creature,,,so,90.0,8.0,captive,91.0,7.0,made,,,the,,,surely,,
+99.0,pergis,"to go, travel",doth,,,pleased,91.0,8.0,all,,,prisoner,91.0,8.0,spell,92.0,7.0,enchained,91.0,8.0
+,,,with,,,with,,,that,,,by,,,all,,,by,,
+,,,eager,95.0,,thy,,,lives,,,thy,93.0,,creatures,,,thy,,
+,,,passion,,,sweetness,,,with,,,charms,92.0,,follow,94.0,,charm,92.0,
+,,,goe,99.0,,so,,,eager,95.0,,follows,94.0,,thee,93.0,,each,,
+,,,,,,transported,,,pant,,,thee,,,whithersoever,96.0,,follows,94.0,
+,,,,,,by,,,follow,94.0,,with,,,thou,,,thee,,
+,,,,,,thy,93.0,,thy,,,desire,95.0,,walkest,99.0,,in,,
+,,,,,,soft,,,influence,,,whither,96.0,,forth,,,hot,,
+,,,,,,charms,92.0,,wheresoe'er,96.0,,thou,,,to,,,desire,95.0,
+,,,,,,all,,,it,,,goest,99.0,,lead,98.0,,whither,96.0,
+,,,,,,living,,,leads,98.0,,to,,,,,,thou,,
+,,,,,,nature,,,,,,lead,98.0,,,,,goest,99.0,
+,,,,,,strives,,,,,,it,,,,,,before,,
+,,,,,,with,,,,,,on,,,,,,to,,
+,,,,,,sharp,,,,,,,,,,,,lead,98.0,
+,,,,,,desire,95.0,,,,,,,,,,,him,,
+,,,,,,to,,,,,,,,,,,,on,,
+,,,,,,follow,94.0,,,,,,,,,,,,,
+,,,,,,thee,,,,,,,,,,,,,,
+,,,,,,her,,,,,,,,,,,,,,
+,,,,,,guide,,,,,,,,,,,,,,
+,,,,,,where,96.0,,,,,,,,,,,,,
+,,,,,,thou,,,,,,,,,,,,,,
+,,,,,,art,,,,,,,,,,,,,,
+,,,,,,pleased,,,,,,,,,,,,,,
+,,,,,,to,,,,,,,,,,,,,,
+,,,,,,lead,98.0,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+100.0,denique,Finally,lastly,100.0,0.0,in,,,then,100.0,0.0,yes,,,and,,,yea,,
+101.0,per,by ,through,101.0,0.0,short,,,through,101.0,0.0,throughout,101.0,0.0,thence,100.0,1.0,through,101.0,0.0
+102.0,maria,seas,seas,102.0,0.0,thy,,,all,,,seas,102.0,0.0,through,101.0,1.0,seas,102.0,0.0
+103.0,ac,and (from atque),and,103.0,0.0,power,,,seas,102.0,1.0,and,,,seas,102.0,1.0,and,103.0,0.0
+104.0,montis,mountain,hills,104.0,0.0,inspiring,113.0,-9.0,the,,,mountains,104.0,0.0,and,,,mountains,104.0,0.0
+105.0,fluviosque,rivers,where,,,every,112.0,-7.0,mountains,104.0,1.0,and,,,mountains,104.0,1.0,and,,
+106.0,rapacis,"rapid, current, rapacious",rivers,105.0,1.0,breast,116.0,-10.0,and,,,sweeping,106.0,0.0,and,,,tearing,106.0,0.0
+107.0,frondiferasque,leafy,flow,,,with,,,the,,,rivers,105.0,2.0,swift,106.0,1.0,rivers,105.0,2.0
+108.0,domos,houses,with,,,tender,114.0,-6.0,streams,105.0,3.0,and,,,streams,105.0,3.0,and,,
+109.0,avium,birds,rapid,106.0,3.0,love,117.0,-8.0,the,,,leafy,107.0,2.0,through,,,the,,
+110.0,camposque,plains,course,,,drives,118.0,-8.0,leafy,107.0,3.0,homes,108.0,2.0,leafy,107.0,3.0,leafy,107.0,3.0
+111.0,virentis,green,or,,,every,,,home,108.0,3.0,of,,,homes,108.0,3.0,haunts,108.0,3.0
+112.0,omnibus,everybody,where,,,creature,,,of,,,birds,109.0,3.0,of,,,of,,
+113.0,incutiens,strike,the,,,on,,,birds,109.0,4.0,and,,,birds,109.0,4.0,birds,109.0,4.0
+114.0,blandum,"soothing, seductive",birds,109.0,5.0,with,,,the,,,grassy,111.0,3.0,and,,,and,,
+115.0,per,through,do,,,eager,,,verdant,111.0,4.0,plains,110.0,5.0,greening,111.0,4.0,verdant,111.0,4.0
+116.0,pectora,the chests,build,,,heat,120.0,-4.0,plains,110.0,6.0,striking,113.0,3.0,plains,110.0,6.0,plains,110.0,6.0
+117.0,amorem,love,their,,,in,101.0,16.0,infusing,113.0,4.0,fond,114.0,3.0,kindling,113.0,4.0,thou,,
+118.0,efficis, succeed (you),leafie,107.0,11.0,seas,102.0,16.0,gentle,114.0,4.0,love,117.0,1.0,the,,,dost,,
+119.0,ut,that,roosts,108.0,11.0,in,103.0,16.0,love,117.0,2.0,into,115.0,4.0,lure,114.0,5.0,strike,113.0,6.0
+120.0,cupide,eagerly,and,,,mountains,104.0,16.0,to,115.0,5.0,the,,,of,,,fond,114.0,6.0
+121.0,generatim,"kind, specie",through,,,and,,,every,112.0,9.0,breasts,116.0,5.0,love,117.0,4.0,love,117.0,4.0
+122.0,saecla,"for generations, for years",the,,,in,,,breast,116.0,6.0,of,,,in,,,into,115.0,7.0
+123.0,propagent,"propagate, teem,",verdant,111.0,12.0,swiftest,106.0,17.0,thou,,,all,112.0,11.0,every,112.0,11.0,the,,
+,,,field,110.0,,floods,105.0,,causest,118.0,,thou,,,breast,116.0,,hearts,116.0,
+,,,soft,114.0,,in,,,glad,120.0,,constrainest,118.0,,thou,,,of,,
+,,,flames,117.0,,leafy,107.0,,renewal,123.0,,them,,,bringest,118.0,,all,112.0,
+,,,thou,,,forests,108.0,,of,,,each,,,the,,,and,,
+,,,dost,,,and,,,their,,,after,,,eternal,,,makest,118.0,
+,,,in,,,in,,,tribes,121.0,,its,,,generations,122.0,,them,,
+,,,every,112.0,,verdant,111.0,,,,,kind,121.0,,forth,,,in,,
+,,,breast,116.0,,plains,110.0,,,,,to,,,kind,121.0,,hot,,
+,,,infuse,113.0,,to,,,,,,continue,123.0,,after,,,desire,120.0,
+,,,so,,,propagate,123.0,,,,,their,,,kind,,,to,,
+,,,a,,,their,,,,,,races,122.0,,,,,renew,123.0,
+,,,fresh,,,kind,121.0,,,,,with,,,,,,the,,
+,,,off-spring,121.0,,from,,,,,,desire,120.0,,,,,stock,,
+,,,still,,,age,122.0,,,,,,,,,,,of,,
+,,,the,,,to,,,,,,,,,,,,their,,
+,,,age,122.0,,age,,,,,,,,,,,,races,122.0,
+,,,renews,123.0,,,,,,,,,,,,,,each,,
+,,,,,,,,,,,,,,,,,,after,,
+,,,,,,,,,,,,,,,,,,his,,
+,,,,,,,,,,,,,,,,,,own,,
+,,,,,,,,,,,,,,,,,,kind,121.0,
+,,,,,,,,,,,,,,,,,,,,
+124.0,quae,because,since,124.0,0.0,since,124.0,0.0,since,124.0,0.0,since,124.0,0.0,and,,,and,,
+125.0,quoniam,because (for),then,,,thou,,,thou,,,thou,,,since,124.0,1.0,since,124.0,1.0
+126.0,rerum,things,ore,,,alone,128.0,-2.0,alone,128.0,-2.0,then,,,'tis,,,thou,,
+127.0,naturam,nature,nature,127.0,0.0,dost,,,all,,,art,,,thou,,,alone,128.0,-1.0
+128.0,sola,alone,thou,,,govern,129.0,-1.0,nature,127.0,1.0,sole,128.0,0.0,alone,128.0,0.0,art,,
+129.0,gubernas,govern,sole,128.0,1.0,nature’s,127.0,2.0,rulest,129.0,0.0,mistress,129.0,0.0,guidest,129.0,0.0,pilot,129.0,0.0
+130.0,nec,nothing,queen,,,laws,,,thus,,,of,,,the,,,to,,
+131.0,sine,without,dost,,,and,,,nor,130.0,1.0,the,,,cosmos,127.0,4.0,the,,
+132.0,te,you (acc),reign,129.0,3.0,nothing,130.0,2.0,without,131.0,1.0,nature,,,and,,,nature,127.0,5.0
+133.0,quicquam,anything,nor,,,without,131.0,2.0,thee,132.0,1.0,of,,,without,131.0,2.0,of,,
+134.0,dias,"dea, of deity",ought,130.0,4.0,thee,132.0,2.0,can,,,things,,,thee,132.0,2.0,things,126.0,8.0
+135.0,in,in,without,131.0,4.0,can,,,aught,133.0,2.0,and,,,naught,133.0,2.0,and,,
+136.0,luminis,of light,thee,132.0,4.0,rise,138.0,-2.0,to,,,without,131.0,5.0,is,,,nothing,130.0,6.0
+137.0,oras,edges,may,,,to,,,light,136.0,1.0,thee,132.0,5.0,risen,138.0,-1.0,without,131.0,6.0
+138.0,exoritur,arise,the,,,light,136.0,2.0,arise,138.0,0.0,nothing,133.0,5.0,to,,,thine,132.0,6.0
+139.0,neque,nothing,light,136.0,3.0,without,,,nor,,,rises,138.0,1.0,reach,,,aid,,
+140.0,fit,becomes,attain,,,thee,,,can,,,up,,,the,,,comes,138.0,2.0
+141.0,laetum,happy,or,,,nothing,139.0,2.0,aught,139.0,2.0,into,,,shining,,,forth,,
+142.0,neque,nothing,can,,,can,140.0,2.0,joyous,141.0,1.0,the,,,shores,137.0,5.0,into,,
+143.0,amabile,lovable,be,,,look,,,or,,,divine,,,of,,,the,,
+144.0,quicquam,anything,frolick,141.0,3.0,gay,141.0,3.0,aught,144.0,0.0,borders,137.0,7.0,light,136.0,8.0,bright,,
+145.0,te,you (acc),or,,,or,,,lovely,143.0,2.0,of,,,nor,,,coasts,137.0,8.0
+146.0,sociam,"be with, friend, associate,",be,,,lovely,143.0,3.0,be,140.0,6.0,light,136.0,10.0,aught,,,of,,
+147.0,studeo,studying,pleasant,143.0,4.0,i,,,oh,,,nothing,139.0,8.0,of,,,light,136.0,11.0
+148.0,scribendis,to write (writing),made,,,beg,,,be,150.0,-2.0,grows,140.0,8.0,joyful,141.0,7.0,nor,,
+149.0,versibus,verses,assist,,,thee,145.0,4.0,thou,145.0,4.0,to,,,or,,,waxes,,
+150.0,esse,are,these,,,a,,,then,,,be,,,of,,,glad,141.0,9.0
+,,,studious,147.0,,companion,146.0,,companion,146.0,,glad,141.0,,lovely,143.0,,nor,142.0,
+,,,numbers,,,to,,,to,,,or,,,born,,,lovely,143.0,
+,,,with,,,my,,,the,,,lovely,143.0,,thee,145.0,,i,,
+,,,thine,145.0,,lays,149.0,,verse,149.0,,fain,,,do,,,long,,
+,,,ayde,146.0,,,,,,,,would,,,i,,,that,,
+,,,,,,,,,,,,i,,,crave,,,thou,145.0,
+,,,,,,,,,,,,have,,,co-partner,146.0,,shouldest,,
+,,,,,,,,,,,,thee,145.0,,in,,,be,150.0,
+,,,,,,,,,,,,for,,,that,,,my,,
+,,,,,,,,,,,,a,,,verse,149.0,,helper,146.0,
+,,,,,,,,,,,,helpmate,146.0,,,,,in,,
+,,,,,,,,,,,,in,,,,,,writing,148.0,
+,,,,,,,,,,,,writing,148.0,,,,,these,,
+,,,,,,,,,,,,the,,,,,,verses,149.0,
+,,,,,,,,,,,,verses,149.0,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+151.0,quos,whom,which,151.0,0.0,which,151.0,0.0,which,151.0,0.0,which,151.0,0.0,which,151.0,0.0,which,151.0,0.0
+152.0,ego,I,i,152.0,0.0,now,,,i,152.0,0.0,i,152.0,0.0,i,152.0,0.0,i,152.0,0.0
+153.0,de,about,essay,156.0,-3.0,i,152.0,1.0,for,,,essay,156.0,-3.0,presume,,,essay,156.0,-3.0
+154.0,rerum,things,of,153.0,1.0,sing,156.0,-2.0,memmius,158.0,-4.0,to,,,on,153.0,1.0,to,,
+155.0,natura,nature,natures,155.0,0.0,of,153.0,2.0,essay,,,pen,,,nature,155.0,0.0,trace,,
+156.0,pangere,"to make, compose, write",works,154.0,2.0,nature,155.0,1.0,to,,,on,,,to,,,on,,
+157.0,conor,try,to,,,i,,,frame,,,the,,,compose,,,the,,
+158.0,memmiadae,Memmius,tell,,,devote,,,on,153.0,5.0,nature,155.0,3.0,for,,,nature,155.0,3.0
+159.0,nostro,our,for,,,to,,,the,,,of,153.0,6.0,memmius,158.0,1.0,of,153.0,6.0
+160.0,quem,whom,honor'd,,,my,159.0,1.0,True,,,things,154.0,6.0,mine,,,things,154.0,6.0
+161.0,tu,you,memmius,158.0,3.0,dear,,,form,,,for,,,whom,160.0,1.0,for,,
+162.0,dea,goddess,who,160.0,2.0,memmius,158.0,4.0,and,,,our,159.0,3.0,thou,161.0,1.0,the,,
+163.0,tempore,times,doth,,,whom,160.0,3.0,nature,155.0,8.0,own,,,hast,,,son,,
+164.0,in,in,most,,,thou,161.0,3.0,of,,,son,,,willed,168.0,-4.0,of,,
+165.0,omni,all,excell,169.0,-4.0,art,,,all,,,of,,,to,,,the,,
+166.0,omnibus,"all, everything",by,,,ever,163.0,3.0,things,154.0,12.0,the,,,be,,,memmii,158.0,8.0
+167.0,ornatum," prepare, ornate, decorated, supply",thee,161.0,6.0,pleased,,,for,,,memmii,158.0,9.0,peerless,169.0,-2.0,my,159.0,8.0
+168.0,voluisti,(you) wanted,accomplisht,,,sweet,,,him,,,whom,160.0,8.0,in,,,friend,,
+169.0,excellere,excell in,goddess,162.0,7.0,goddess,162.0,7.0,whom,160.0,9.0,thou,161.0,8.0,every,165.0,4.0,whom,160.0,9.0
+170.0,rebus,things,o,,,to,,,goddess,162.0,8.0,goddess,162.0,8.0,grace,,,thou,161.0,9.0
+,,,bestow,,,adorn,167.0,,thou,161.0,,hast,,,at,,,goddess,162.0,
+,,,eternal,165.0,,with,,,would'st,,,willed,168.0,,every,166.0,,through,164.0,
+,,,grace,,,every,165.0,,have,,,to,,,hour--,,,all,165.0,
+,,,,,,grace,169.0,,excel,169.0,,have,,,,,,his,,
+,,,,,,,,,with,,,no,,,,,,life,,
+,,,,,,,,,every,165.0,,peer,169.0,,,,,hast,,
+,,,,,,,,,grace,,,rich,,,,,,willed,168.0,
+,,,,,,,,,adorned,167.0,,as,,,,,,to,,
+,,,,,,,,,,,,he,,,,,,be,,
+,,,,,,,,,,,,ever,163.0,,,,,bright,167.0,
+,,,,,,,,,,,,is,,,,,,with,,
+,,,,,,,,,,,,in,,,,,,every,166.0,
+,,,,,,,,,,,,every,165.0,,,,,grace,169.0,
+,,,,,,,,,,,,grace,,,,,,beyond,,
+,,,,,,,,,,,,,,,,,,his,,
+,,,,,,,,,,,,,,,,,,fellows,,
+,,,,,,,,,,,,,,,,,,,,
+171.0,quo,"where, for, why",on,,,for,,,the,,,wherefore,171.0,0.0,wherefore,,,therefore,171.0,0.0
+172.0,magis,more,what,,,him,,,rather,172.0,0.0,all,,,indeed,,,the,,
+173.0,aeternum,eternal,from,,,kind,,,then,,,the,,,divine,176.0,-3.0,more,172.0,1.0
+174.0,da,give,me,,,deity,176.0,-2.0,immortal,173.0,1.0,more,172.0,2.0,one,,,goddess,176.0,-2.0
+175.0,dictis,words,shall,,,inspire,,,grace,177.0,-2.0,o,,,give,,,grant,,
+176.0,diva,goddess,flow,175.0,1.0,my,,,give,174.0,2.0,lady,176.0,0.0,my,,,a,,
+177.0,leporem,charm,that,,,song,,,goddess,176.0,1.0,lend,174.0,3.0,words,175.0,2.0,lasting,,
+178.0,effice,"make, create, succeed",whilst,,,and,,,to,,,my,,,immortal,173.0,5.0,loveliness,177.0,1.0
+179.0,ut,in,i,,,give,174.0,5.0,my,,,lays,175.0,4.0,charm,177.0,2.0,to,,
+180.0,interea,meantime,write,,,immortal,173.0,7.0,words,175.0,5.0,an,,,lull,,,my,,
+181.0,fera,beast,by,184.0,-3.0,beauty,177.0,4.0,and,,,everliving,173.0,8.0,to,,,words,175.0,6.0
+182.0,moenera,"rewards, gift, duty",seas,185.0,-3.0,to,,,cause,178.0,4.0,charm,177.0,5.0,a,,,bring,,
+183.0,militiai,of war,and,186.0,-3.0,my,,,meanwhile,180.0,3.0,cause,178.0,5.0,timely,,,it,,
+184.0,per,for,land,187.0,-3.0,verse,175.0,9.0,that,,,meanwhile,180.0,4.0,rest,189.0,-5.0,to,,
+185.0,maria,seas,may,,,mean,,,the,,,the,,,o'er,184.0,1.0,pass,,
+186.0,ac,and,cease,,,time,,,fierce,181.0,5.0,savage,181.0,5.0,sea,185.0,1.0,that,,
+187.0,terras,earth,fire,,,the,,,arts,182.0,5.0,works,182.0,5.0,and,186.0,1.0,meantime,180.0,7.0
+188.0,omnis,"all, everybody",wars,183.0,5.0,bloody,181.0,7.0,of,,,of,,,land,187.0,1.0,the,,
+189.0,sopita,"sleep, repose",clos'd,,,tumults,182.0,7.0,war,183.0,6.0,war,183.0,6.0,the,,,wild,181.0,8.0
+190.0,quiescant,"sleep, repose, calmly, quietly",in,,,of,,,throughout,184.0,6.0,to,,,savage,181.0,9.0,works,182.0,8.0
+,,,an,,,the,,,all,188.0,,be,,,works,182.0,,of,,
+,,,everlasting,,,war,183.0,,seas,185.0,,lulled,190.0,,of,,,warfare,183.0,
+,,,peace,189.0,,by,184.0,,and,186.0,,to,,,war,183.0,,may,,
+,,,to,,,sea,185.0,,lands,187.0,,rest,189.0,,,,,be,,
+,,,mortals,,,and,186.0,,hushed,190.0,,throughout,184.0,,,,,lulled,190.0,
+,,,,,,land,187.0,,to,,,all,188.0,,,,,to,,
+,,,,,,compose,190.0,,repose,,,seas,185.0,,,,,sleep,189.0,
+,,,,,,and,,,may,,,and,186.0,,,,,over,184.0,
+,,,,,,lay,,,rest,189.0,,lands,187.0,,,,,all,,
+,,,,,,asleep,189.0,,,,,,,,,,,seas,185.0,
+,,,,,,,,,,,,,,,,,,and,186.0,
+,,,,,,,,,,,,,,,,,,lands,187.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+191.0,nam,for,thou,192.0,-1.0,for,191.0,0.0,for,191.0,0.0,for,191.0,0.0,for,191.0,0.0,for,191.0,0.0
+192.0,tu,you,alone,193.0,-1.0,thou,192.0,0.0,thou,192.0,0.0,thou,192.0,0.0,thou,192.0,0.0,thou,192.0,0.0
+193.0,sola,only,canst,194.0,-1.0,alone,193.0,0.0,alone,193.0,0.0,alone,193.0,0.0,alone,193.0,0.0,only,193.0,0.0
+194.0,potes,can,rest,196.0,-2.0,mankind,198.0,-4.0,with,,,canst,194.0,0.0,hast,194.0,0.0,canst,194.0,0.0
+195.0,tranquilla,tranquil,afford,,,with,,,tranquil,195.0,0.0,bless,197.0,-2.0,power,,,bless,197.0,-2.0
+196.0,pace,peace,since,199.0,-3.0,quiet,195.0,1.0,peace,196.0,0.0,mankind,198.0,-2.0,with,,,mortal,198.0,-2.0
+197.0,iuvare,help,mars,203.0,-6.0,peace,196.0,1.0,canst,194.0,3.0,with,,,public,,,men,,
+198.0,mortalis,"mortals, humans",who,,,canst,194.0,4.0,mortals,198.0,0.0,calm,195.0,3.0,peace,196.0,2.0,with,,
+199.0,quoniam,"for, since",is,,,bless,197.0,2.0,bless,197.0,2.0,peace,196.0,3.0,to,,,quiet,195.0,4.0
+200.0,belli,war,of,,,because,199.0,1.0,since,199.0,1.0,seeing,,,aid,197.0,3.0,peace,196.0,4.0
+201.0,fera,beast,direful,201.0,0.0,‘tis,,,mars,203.0,-2.0,that,199.0,2.0,mortality,198.0,3.0,since,199.0,2.0
+202.0,moenera,,wars,200.0,2.0,mars,203.0,-1.0,potent,204.0,-2.0,mavors,203.0,-1.0,since,199.0,3.0,’tis,,
+203.0,mavors,Mars,the,,,armipotent,204.0,-1.0,in,,,lord,204.0,-1.0,he,,,mavors,203.0,0.0
+204.0,armipotens,in arms powerful,lord,205.0,-1.0,that,,,arms,,,of,,,who,,,the,,
+205.0,regit,"to rule, to govern",on,206.0,-1.0,rules,205.0,0.0,rules,205.0,0.0,battle,,,rules,205.0,0.0,lord,204.0,1.0
+206.0,in,in,thy,,,the,,,war,200.0,6.0,controls,205.0,1.0,the,,,of,,
+207.0,gremium,"lap, bossom",fair,,,bloody,201.0,6.0,who,208.0,-1.0,the,,,savage,201.0,6.0,hosts,,
+208.0,qui,who,bosom,207.0,1.0,tumults,202.0,6.0,oft,209.0,-1.0,savage,201.0,7.0,works,202.0,6.0,who,,
+209.0,saepe,often,resting,212.0,-3.0,of,,,upon,206.0,3.0,works,202.0,7.0,of,,,guides,205.0,4.0
+210.0,tuum,yours,oft,209.0,1.0,the,,,thy,210.0,0.0,of,,,battle,200.0,10.0,the,,
+211.0,se,himself,his,211.0,0.0,war,200.0,11.0,bosom,207.0,4.0,war,200.0,11.0,puissant,204.0,7.0,wild,201.0,10.0
+212.0,reiicit,rejects,head,,,and,,,sinks,,,mavors,,,mars,203.0,9.0,works,202.0,10.0
+213.0,aeterno,"forever, eternal",with,,,he,211.0,2.0,o'erpowered,212.0,1.0,who,208.0,5.0,how,,,of,,
+214.0,devictus,"defeated, conquered",lasting,213.0,1.0,by,,,and,,,often,209.0,5.0,often,209.0,5.0,war,200.0,14.0
+215.0,vulnere,wound,wounds,215.0,0.0,everlasting,213.0,2.0,bound,214.0,1.0,flings,212.0,3.0,to,206.0,9.0,and,,
+216.0,amoris,of love,of,,,pains,215.0,1.0,by,,,himself,211.0,5.0,thy,,,he,,
+,,,love,216.0,,of,,,love's,216.0,,into,206.0,,bosom,207.0,,upon,206.0,
+,,,is,,,love,216.0,,eternal,213.0,,thy,,,flings,212.0,,thy,210.0,
+,,,vanquished,214.0,,bound,214.0,,wound,215.0,,lap,207.0,,his,211.0,,lap,207.0,
+,,,,,,fast,,,,,,quite,,,strength,,,oft,209.0,
+,,,,,,tastes,,,,,,vanquished,214.0,,o'ermastered,214.0,,flings,212.0,
+,,,,,,in,206.0,,,,,by,,,by,,,himself,211.0,
+,,,,,,thy,,,,,,the,,,the,,,back,,
+,,,,,,lap,207.0,,,,,never-healing,213.0,,eternal,213.0,,conquered,214.0,
+,,,,,,most,,,,,,wound,215.0,,wound,215.0,,by,,
+,,,,,,sweet,,,,,,of,,,of,,,the,,
+,,,,,,repose,,,,,,love,216.0,,love,216.0,,eternal,213.0,
+,,,,,,,,,,,,,,,--,,,wound,215.0,
+,,,,,,,,,,,,,,,,,,of,,
+,,,,,,,,,,,,,,,,,,love,216.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+217.0,atque,and,and,,,turns,,,thence,218.0,-1.0,and,,,and,217.0,0.0,and,217.0,0.0
+218.0,ita,so ,bending,219.0,-1.0,back,219.0,-1.0,looking,219.0,-1.0,then,218.0,0.0,there,218.0,0.0,then,218.0,0.0
+219.0,suspiciens,looking up,his,,,his,,,up,,,with,,,with,,,pillowing,219.0,0.0
+220.0,tereti,round,round,220.0,0.0,smooth,,,with,,,upturned,219.0,1.0,eyes,,,his,,
+221.0,cervice,the neck,neck,221.0,0.0,long,220.0,1.0,rounded,220.0,1.0,face,,,and,,,shapely,220.0,1.0
+222.0,reposta,"put down, to place, deposit",which,,,neck,221.0,1.0,neck,221.0,1.0,and,,,full,220.0,2.0,neck,221.0,1.0
+223.0,pascit,feeds,on,,,and,,,turned,222.0,1.0,shapely,220.0,3.0,throat,221.0,2.0,upon,,
+224.0,amore,love ,thee,,,views,230.0,-6.0,back,,,neck,221.0,3.0,backward,219.0,5.0,thee,,
+225.0,avidos,"greedy, avid",lyes,222.0,3.0,thy,228.0,-3.0,and,,,thrown,222.0,3.0,thrown,,,and,,
+226.0,inhians,"eager, gaping, yearning (open mouth)",with,,,charms,,,lips,,,back,,,gazing,,,looking,,
+227.0,in,in,greedy,225.0,2.0,and,,,apart,226.0,1.0,feeds,223.0,4.0,my,,,up,,
+228.0,te,you (acc),passion,226.0,2.0,greedily,225.0,3.0,feeding,223.0,5.0,with,,,goddess,229.0,-1.0,he,,
+229.0,dea,goddess,feeds,223.0,6.0,sucks,223.0,6.0,his,,,love,224.0,5.0,open-mouthed,226.0,3.0,feeds,223.0,6.0
+230.0,visus,see / sight,his,,,love,224.0,6.0,gaze,230.0,0.0,his,,,at,,,with,224.0,6.0
+231.0,eque,,amorous,224.0,7.0,at,,,with,,,greedy,225.0,6.0,thee,228.0,3.0,love,,
+232.0,tuo,yours,eyes,,,both,,,love,224.0,8.0,sight,230.0,2.0,pastures,,,his,,
+233.0,pendet,"hang, suspend",whilst,,,his,,,supine,,,gazing,,,on,,,greedy,225.0,8.0
+234.0,resupini,"bent back, lying on back, supine, reclined",on,,,eyes,,,suspends,233.0,1.0,goddess,229.0,5.0,love,224.0,10.0,eyes,,
+235.0,spiritus,breath of,thy,,,supinely,234.0,1.0,his,,,open-mouthed,226.0,9.0,his,,,gazing,230.0,5.0
+236.0,ore,mouth,lips,,,as,,,breath,235.0,1.0,on,227.0,9.0,greedy,225.0,11.0,wistfully,,
+237.0,hunc,him,his,,,he,237.0,0.0,upon,,,thee,228.0,9.0,sight,230.0,7.0,towards,,
+238.0,tu,you,fainting,,,rests,,,thy,,,and,,,his,,,thee,228.0,10.0
+239.0,diva,goddess,soul,235.0,4.0,his,,,mouth,236.0,3.0,as,,,breath,235.0,4.0,while,,
+240.0,tuo,on your,is,,,very,,,o'er,,,backward,234.0,6.0,hanging,,,as,,
+241.0,recubantem,reclining,plac'd,233.0,8.0,soul,235.0,6.0,him,,,he,,,upon,,,he,,
+242.0,corpore,body,and,,,hangs,233.0,9.0,recumbent,241.0,1.0,reclines,233.0,9.0,thy,,,lies,233.0,9.0
+243.0,sancto,holy,he,,,on,,,hang,,,his,,,lips,236.0,7.0,back,234.0,9.0
+244.0,circum,"round, around",within,,,thy,,,thy,,,breath,235.0,9.0,him,237.0,7.0,his,,
+245.0,fusa,"to pour out, to shed | | round, spindle, spinning wheel ?",those,,,lips,236.0,9.0,sacred,243.0,2.0,stays,,,thus,,,breath,235.0,10.0
+246.0,super,"on top, above",sacred,243.0,3.0,this,,,form,242.0,4.0,hanging,,,reclined,241.0,5.0,hangs,,
+247.0,suavis,"sweet, grateful",arms,242.0,5.0,god,239.0,8.0,and,,,on,,,fill,,,upon,,
+248.0,ex,from,enchac'd,,,dissolv’d,,,thus,,,thy,,,with,,,thy,,
+249.0,ore,mouth,let,,,in,,,pour,245.0,4.0,lips,,,thy,,,lips,236.0,13.0
+250.0,loquellas,"speech, words, chatter",charming,,,ease,,,thou,,,while,,,holy,243.0,7.0,do,,
+251.0,funde,"to pour out, to shed",accents,250.0,1.0,in,,,from,248.0,3.0,then,,,body,242.0,9.0,thou,238.0,13.0
+252.0,petens,"seek, look for",thy,,,the,,,thy,,,lady,239.0,13.0,round,244.0,8.0,goddess,239.0,13.0
+253.0,placidam,"a mild, placid",sweet,247.0,6.0,soft,247.0,6.0,sweet,247.0,6.0,he,,,above,246.0,7.0,as,,
+254.0,romanis,Romans,lips,249.0,5.0,moments,,,lips,249.0,5.0,is,,,pour,245.0,9.0,he,237.0,17.0
+255.0,incluta,"celebrated, famous, glorious",inspire,,,when,,,sweet,,,reposing,241.0,14.0,from,248.0,7.0,leans,241.0,14.0
+256.0,pacem,peace,and,,,thy,240.0,16.0,words,250.0,6.0,on,,,those,,,resting,,
+,,,for,,,heavenly,243.0,,Imploring,252.0,,thy,240.0,,lips,249.0,,on,,
+,,,sad,,,limbs,242.0,,Goddess,,,holy,243.0,,soft,247.0,,thy,240.0,
+,,,rome,254.0,,cling,241.0,,placid,253.0,,body,242.0,,syllables,250.0,,sacred,243.0,
+,,,an,,,round,244.0,,peace,256.0,,shed,245.0,,to,,,limbs,242.0,
+,,,happy,253.0,,him,,,for,,,thyself,,,win,252.0,,bend,,
+,,,peace,256.0,,melting,,,Rome,254.0,,about,244.0,,peace,256.0,,to,,
+,,,require,252.0,,with,,,,,,him,,,for,,,embrace,,
+,,,,,,eloquence,250.0,,,,,and,,,the,,,him,,
+,,,,,,caress,,,,,,above,246.0,,romans,254.0,,and,,
+,,,,,,great,,,,,,and,,,glorious,255.0,,pour,245.0,
+,,,,,,goddess,,,,,,pour,,,lady,,,forth,,
+,,,,,,and,,,,,,from,248.0,,peace,,,sweet,247.0,
+,,,,,,implore,252.0,,,,,thy,,,,,,petition,250.0,
+,,,,,,a,,,,,,lips,249.0,,,,,from,248.0,
+,,,,,,peace,256.0,,,,,sweet,247.0,,,,,thy,,
+,,,,,,for,,,,,,discourse,250.0,,,,,lips,249.0,
+,,,,,,rome,254.0,,,,,asking,252.0,,,,,seeking,252.0,
+,,,,,,,,,,,,glorious,,,,,,great,,
+,,,,,,,,,,,,dame,,,,,,lady,,
+,,,,,,,,,,,,gentle,253.0,,,,,gentle,253.0,
+,,,,,,,,,,,,peace,256.0,,,,,peace,256.0,
+,,,,,,,,,,,,for,,,,,,for,,
+,,,,,,,,,,,,the,,,,,,the,,
+,,,,,,,,,,,,romans,254.0,,,,,romans,254.0,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,
+257.0,nam,for,for,257.0,0.0,for,257.0,0.0,For,257.0,0.0,for,257.0,0.0,for,257.0,0.0,for,257.0,0.0
+258.0,neque,neither,whilst,263.0,-5.0,neither,258.0,0.0,neither,258.0,0.0,neither,258.0,0.0,in,,,neither,258.0,0.0
+259.0,nos,of us,our,,,can,265.0,-6.0,in,,,can,265.0,-6.0,a,,,can,265.0,-6.0
+260.0,agere,"to act, lead, move",countrey,262.0,-2.0,i,259.0,1.0,our,,,we,259.0,1.0,season,263.0,-3.0,we,259.0,1.0
+261.0,hoc,"here, in this place",thus,,,write,260.0,1.0,country's,262.0,-1.0,in,,,troublous,264.0,-3.0,in,,
+262.0,patriai,fatherland,afflicted,264.0,-2.0,with,,,adverse,264.0,-2.0,our,,,to,,,our,,
+263.0,tempore,times,lies,,,cheerful,266.0,-3.0,hours,263.0,0.0,country’s,262.0,1.0,the,,,country’s,262.0,1.0
+264.0,iniquo,"uneven, unjust, evil, wicked",with,,,strains,267.0,-3.0,Can,265.0,-1.0,day,263.0,1.0,state,262.0,2.0,time,263.0,1.0
+265.0,possumus,can,what,,,in,,,I,259.0,6.0,of,,,neither,258.0,7.0,of,,
+266.0,aequo,equally,content,,,times,263.0,3.0,with,,,trouble,264.0,2.0,may,265.0,1.0,trouble,264.0,2.0
+267.0,animo,animated,can,265.0,2.0,so,,,tranquil,266.0,1.0,with,,,i,259.0,8.0,set,260.0,7.0
+268.0,nec,not,we,259.0,9.0,sad,264.0,4.0,mind,267.0,1.0,untroubled,266.0,2.0,attend,260.0,8.0,to,,
+269.0,memmi,Memmii,philosophize,260.0,9.0,nor,268.0,1.0,this,,,mind,267.0,2.0,this,272.0,-3.0,our,,
+270.0,clara,bright,nor,,,can,,,theme,,,think,260.0,10.0,task,274.0,-4.0,task,274.0,-4.0
+271.0,propago,"propagate, increase, flourish",may,,,the,,,pursue,260.0,11.0,only,,,of,,,with,,
+272.0,talibus,such,brave,270.0,2.0,noble,270.0,2.0,Nor,268.0,4.0,of,,,mine,,,mind,267.0,5.0
+273.0,in,in ,memmius,269.0,4.0,house,271.0,2.0,can,,,our,,,with,,,undistressed,266.0,7.0
+274.0,rebus,things,then,,,of,,,a,,,work,,,thought,267.0,7.0,nor,268.0,6.0
+275.0,communi,"common, societal, of society",wanting,276.0,-1.0,memmius,269.0,6.0,scion,271.0,4.0,nor,268.0,7.0,untroubled,266.0,9.0,amid,,
+276.0,desse,"missing, in need, wanting",be,,,desert,,,of,,,can,,,nor,268.0,8.0,such,,
+277.0,saluti,"welfare, health",to,,,the,,,the,,,the,,,mid,,,doings,,
+,,,th',,,common,275.0,,Memmian,269.0,,illustrious,270.0,,such,,,can,,
+,,,publike,275.0,,good,277.0,,stock,270.0,,offset,271.0,,events,,,memmius’s,269.0,
+,,,peace,277.0,,in,273.0,,Be,,,of,,,the,,,noble,270.0,
+,,,in,273.0,,such,272.0,,such,,,memmius,269.0,,illustrious,270.0,,son,271.0,
+,,,such,272.0,,distress,276.0,,time,,,in,,,scion,271.0,,fail,276.0,
+,,,perplexitie,274.0,,of,,,wanting,276.0,,times,,,of,,,the,,
+,,,,,,things,274.0,,to,,,like,,,the,,,fortunes,277.0,
+,,,,,,,,,the,,,these,,,memmian,269.0,,of,,
+,,,,,,,,,common,275.0,,be,,,house,,,the,,
+,,,,,,,,,weal,277.0,,wanting,276.0,,neglect,276.0,,state,275.0,
+,,,,,,,,,,,,to,,,the,,,,,
+,,,,,,,,,,,,the,,,civic,275.0,,,,
+,,,,,,,,,,,,general,275.0,,cause,277.0,,,,
+,,,,,,,,,,,,weal,277.0,,,,,,,

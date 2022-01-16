@@ -1,0 +1,278 @@
+01_latin_order,02_latin_tokens,03_eng_direct_tokens,1656_en,1743_en,1872_en,1886_en,1916_en,1936_en,full_list,nr_of_words,uniques
+42.0,daedala,skilful / Daedalus,th'inamel'd,art,plastic,manifold,daedal,quaint,"[""th'inamel'd"", 'art', 'plastic', 'manifold', 'daedal', 'quaint']",6.0,6.0
+59.0,patefactast,"to lay open, open",brings,leads,unlocks,disclosed,comes,revealed,"['brings', 'leads', 'unlocks', 'disclosed', 'comes', 'revealed']",6.0,6.0
+113.0,incutiens,strike,infuse,inspiring,infusing,striking,kindling,strike,"['infuse', 'inspiring', 'infusing', 'striking', 'kindling', 'strike']",6.0,6.0
+129.0,gubernas,govern,reign,govern,rulest,mistress,guidest,pilot,"['reign', 'govern', 'rulest', 'mistress', 'guidest', 'pilot']",6.0,6.0
+219.0,suspiciens,looking up,bending,back,looking,upturned,backward,pillowing,"['bending', 'back', 'looking', 'upturned', 'backward', 'pillowing']",6.0,6.0
+250.0,loquellas,"speech, words, chatter",accents,eloquence,words,discourse,syllables,petition,"['accents', 'eloquence', 'words', 'discourse', 'syllables', 'petition']",6.0,6.0
+252.0,petens,"seek, look for",require,implore,Imploring,asking,win,seeking,"['require', 'implore', 'Imploring', 'asking', 'win', 'seeking']",6.0,6.0
+260.0,agere,"to act, lead, move",philosophize,write,pursue,think,attend,set,"['philosophize', 'write', 'pursue', 'think', 'attend', 'set']",6.0,6.0
+263.0,tempore,times,whilst,times,hours,day,season,time,"['whilst', 'times', 'hours', 'day', 'season', 'time']",6.0,6.0
+6.0,alma,nourishing,,sweet,benignant,increase-giving,dear,life-giver,"[0, 'sweet', 'benignant', 'increase-giving', 'dear', 'life-giver']",5.0,5.0
+26.0,visitque,"to look, view",beholding,view,behold,beholds,,look,"['beholding', 'view', 'behold', 'beholds', 0, 'look']",5.0,5.0
+41.0,suavis,"sweet, agreeable, grateful",sweet,sweetest,,sweet-smelling,scented,sweet-scented,"['sweet', 'sweetest', 0, 'sweet-smelling', 'scented', 'sweet-scented']",5.0,5.0
+66.0,aura,"wind, air (in motion), a breeze, wind",,winds,breathe,breeze,blow,wind,"[0, 'winds', 'breathe', 'breeze', 'blow', 'wind']",5.0,5.0
+91.0,capta,"captivated, taken",,pleased,captive,prisoner,seized,enchained,"[0, 'pleased', 'captive', 'prisoner', 'seized', 'enchained']",5.0,5.0
+106.0,rapacis,"rapid, current, rapacious",rapid,swiftest,,sweeping,swift,tearing,"['rapid', 'swiftest', 0, 'sweeping', 'swift', 'tearing']",5.0,5.0
+118.0,efficis, succeed (you),,drives,causest,constrainest,bringest,makest,"[0, 'drives', 'causest', 'constrainest', 'bringest', 'makest']",5.0,5.0
+123.0,propagent,"propagate, teem,",renews,propagate,renewal,continue,,renew,"['renews', 'propagate', 'renewal', 'continue', 0, 'renew']",5.0,5.0
+138.0,exoritur,arise,,rise,arise,rises,risen,comes,"[0, 'rise', 'arise', 'rises', 'risen', 'comes']",5.0,5.0
+233.0,pendet,"hang, suspend",plac'd,hangs,suspends,reclines,,lies,"[""plac'd"", 'hangs', 'suspends', 'reclines', 0, 'lies']",5.0,5.0
+241.0,recubantem,reclining,,cling,recumbent,reposing,reclined,leans,"[0, 'cling', 'recumbent', 'reposing', 'reclined', 'leans']",5.0,5.0
+1.0,aeneadum,Aenea,romes,rome,romans,aeneadae,rome,aeneas’s,"['romes', 'rome', 'romans', 'aeneadae', 'rome', 'aeneas’s']",6.0,5.0
+44.0,summittit,puts forth,submit,affords,spreads,puts,bears,puts,"['submit', 'affords', 'spreads', 'puts', 'bears', 'puts']",6.0,5.0
+49.0,ponti,the sea / bridge,seas,sea’s,ocean,sea,deep,ocean,"['seas', 'sea’s', 'ocean', 'sea', 'deep', 'ocean']",6.0,5.0
+76.0,perculsae,"throw down, overturn, ",touch,strikes,smit,smitten,smit,thrilled,"['touch', 'strikes', 'smit', 'smitten', 'smit', 'thrilled']",6.0,5.0
+85.0,laeta,"joyful, cheerful, glad,",flowry,cheerful,glad,glad,happy,fat,"['flowry', 'cheerful', 'glad', 'glad', 'happy', 'fat']",6.0,5.0
+108.0,domos,houses,roosts,forests,home,homes,homes,haunts,"['roosts', 'forests', 'home', 'homes', 'homes', 'haunts']",6.0,5.0
+114.0,blandum,"soothing, seductive",soft,tender,gentle,fond,lure,fond,"['soft', 'tender', 'gentle', 'fond', 'lure', 'fond']",6.0,5.0
+141.0,laetum,happy,frolick,gay,joyous,glad,joyful,glad,"['frolick', 'gay', 'joyous', 'glad', 'joyful', 'glad']",6.0,5.0
+146.0,sociam,"be with, friend, associate,",ayde,companion,companion,helpmate,co-partner,helper,"['ayde', 'companion', 'companion', 'helpmate', 'co-partner', 'helper']",6.0,5.0
+169.0,excellere,excell in,excell,grace,excel,peer,peerless,grace,"['excell', 'grace', 'excel', 'peer', 'peerless', 'grace']",6.0,5.0
+206.0,in,in,on,in,upon,into,to,upon,"['on', 'in', 'upon', 'into', 'to', 'upon']",6.0,5.0
+220.0,tereti,round,round,long,rounded,shapely,full,shapely,"['round', 'long', 'rounded', 'shapely', 'full', 'shapely']",6.0,5.0
+264.0,iniquo,"uneven, unjust, evil, wicked",afflicted,sad,adverse,trouble,troublous,trouble,"['afflicted', 'sad', 'adverse', 'trouble', 'troublous', 'trouble']",6.0,5.0
+275.0,communi,"common, societal, of society",publike,common,common,general,civic,state,"['publike', 'common', 'common', 'general', 'civic', 'state']",6.0,5.0
+277.0,saluti,"welfare, health",peace,good,weal,weal,cause,fortunes,"['peace', 'good', 'weal', 'weal', 'cause', 'fortunes']",6.0,5.0
+50.0,placatumque,"to quiet, soothe, appease (sg, perf)",,smooth,placid,propitiated,serene,,"[0, 'smooth', 'placid', 'propitiated', 'serene', 0]",4.0,4.0
+14.0,navigerum,Ship-bearing,ship-bearing,bearing,ship-bearing,ship-carrying,,carries,"['ship-bearing', 'bearing', 'ship-bearing', 'ship-carrying', 0, 'carries']",5.0,4.0
+27.0,exortum,"to come out, rise, appear",,rise,rise,rises,risen,comes,"[0, 'rise', 'rise', 'rises', 'risen', 'comes']",5.0,4.0
+48.0,aequora,"even surface, level (acc)",smooth,,plains,levels,waters,levels,"['smooth', 0, 'plains', 'levels', 'waters', 'levels']",5.0,4.0
+51.0,nitet,to shine (3rd sg),,shines,shine,shines,glow,gleams,"[0, 'shines', 'shine', 'shines', 'glow', 'gleams']",5.0,4.0
+63.0,reserata,to take by storm,gales,unlock’d,fecundating,blowing,gales,,"['gales', 'unlock’d', 'fecundating', 'blowing', 'gales', 0]",5.0,4.0
+65.0,genitabilis,of (adj sg masc gen),genial,genial,,birth-favoring,procreant,teeming,"['genial', 'genial', 0, 'birth-favoring', 'procreant', 'teeming']",5.0,4.0
+68.0,aeriae,airy (adj),aery,airy,aerial,air,air,,"['aery', 'airy', 'aerial', 'air', 'air', 0]",5.0,4.0
+77.0,corda,the heart,brest,souls,,heart,heart,hearts,"['brest', 'souls', 0, 'heart', 'heart', 'hearts']",5.0,4.0
+96.0,quo,where,,where,wheresoe'er,whither,whithersoever,whither,"[0, 'where', ""wheresoe'er"", 'whither', 'whithersoever', 'whither']",5.0,4.0
+176.0,diva,goddess,,deity,goddess,lady,divine,goddess,"[0, 'deity', 'goddess', 'lady', 'divine', 'goddess']",5.0,4.0
+177.0,leporem,charm,,beauty,grace,charm,charm,loveliness,"[0, 'beauty', 'grace', 'charm', 'charm', 'loveliness']",5.0,4.0
+181.0,fera,beast,,bloody,fierce,savage,savage,wild,"[0, 'bloody', 'fierce', 'savage', 'savage', 'wild']",5.0,4.0
+198.0,mortalis,"mortals, humans",,mankind,mortals,mankind,mortality,mortal,"[0, 'mankind', 'mortals', 'mankind', 'mortality', 'mortal']",5.0,4.0
+201.0,fera,beast,direful,bloody,,savage,savage,wild,"['direful', 'bloody', 0, 'savage', 'savage', 'wild']",5.0,4.0
+204.0,armipotens,in arms powerful,,armipotent,potent,lord,puissant,lord,"[0, 'armipotent', 'potent', 'lord', 'puissant', 'lord']",5.0,4.0
+230.0,visus,see / sight,,views,gaze,sight,sight,gazing,"[0, 'views', 'gaze', 'sight', 'sight', 'gazing']",5.0,4.0
+262.0,patriai,fatherland,countrey,,country's,country’s,state,country’s,"['countrey', 0, ""country's"", 'country’s', 'state', 'country’s']",5.0,4.0
+266.0,aequo,equally,,cheerful,tranquil,untroubled,untroubled,undistressed,"[0, 'cheerful', 'tranquil', 'untroubled', 'untroubled', 'undistressed']",5.0,4.0
+271.0,propago,"propagate, increase, flourish",,house,scion,offset,scion,son,"[0, 'house', 'scion', 'offset', 'scion', 'son']",5.0,4.0
+33.0,fugiunt,"fly, take flight",flee,fly,hushed,flee,flee,turn,"['flee', 'fly', 'hushed', 'flee', 'flee', 'turn']",6.0,4.0
+38.0,adventumque,"to reach, arrive at",com'st,approach,coming,advent,coming,coming,"[""com'st"", 'approach', 'coming', 'advent', 'coming', 'coming']",6.0,4.0
+60.0,verna,of spring (adj sg fem),springs,spring,vernal,vernal,springtime,spring,"['springs', 'spring', 'vernal', 'vernal', 'springtime', 'spring']",6.0,4.0
+67.0,favoni, the west wind (Favonius),west,western,zephyrs,favonius,west,west,"['west', 'western', 'zephyrs', 'favonius', 'west', 'west']",6.0,4.0
+83.0,persultant,"to leap about, range through",jump,frisk,bound,bound,leap,bound,"['jump', 'frisk', 'bound', 'bound', 'leap', 'bound']",6.0,4.0
+90.0,ita,"thus, so",where,so,thus,such,thus,so,"['where', 'so', 'thus', 'such', 'thus', 'so']",6.0,4.0
+92.0,lepore,charm,beauty,charms,charms,charms,spell,charm,"['beauty', 'charms', 'charms', 'charms', 'spell', 'charm']",6.0,4.0
+175.0,dictis,words,flow,verse,words,lays,words,words,"['flow', 'verse', 'words', 'lays', 'words', 'words']",6.0,4.0
+184.0,per,for,by,by,throughout,throughout,o'er,over,"['by', 'by', 'throughout', 'throughout', ""o'er"", 'over']",6.0,4.0
+189.0,sopita,"sleep, repose",peace,asleep,rest,rest,rest,sleep,"['peace', 'asleep', 'rest', 'rest', 'rest', 'sleep']",6.0,4.0
+205.0,regit,"to rule, to govern",lord,rules,rules,controls,rules,guides,"['lord', 'rules', 'rules', 'controls', 'rules', 'guides']",6.0,4.0
+213.0,aeterno,"forever, eternal",lasting,everlasting,eternal,never-healing,eternal,eternal,"['lasting', 'everlasting', 'eternal', 'never-healing', 'eternal', 'eternal']",6.0,4.0
+214.0,devictus,"defeated, conquered",vanquished,bound,bound,vanquished,o'ermastered,conquered,"['vanquished', 'bound', 'bound', 'vanquished', ""o'ermastered"", 'conquered']",6.0,4.0
+242.0,corpore,body,arms,limbs,form,body,body,limbs,"['arms', 'limbs', 'form', 'body', 'body', 'limbs']",6.0,4.0
+269.0,memmi,Memmii,memmius,memmius,Memmian,memmius,memmian,memmius’s,"['memmius', 'memmius', 'Memmian', 'memmius', 'memmian', 'memmius’s']",6.0,4.0
+270.0,clara,bright,brave,noble,stock,illustrious,illustrious,noble,"['brave', 'noble', 'stock', 'illustrious', 'illustrious', 'noble']",6.0,4.0
+276.0,desse,"missing, in need, wanting",wanting,distress,wanting,wanting,neglect,fail,"['wanting', 'distress', 'wanting', 'wanting', 'neglect', 'fail']",6.0,4.0
+74.0,significant,"to show, signify",,,herald,signs,foretoken,,"[0, 0, 'herald', 'signs', 'foretoken', 0]",3.0,3.0
+100.0,denique,Finally,lastly,,then,,thence,,"['lastly', 0, 'then', 0, 'thence', 0]",3.0,3.0
+133.0,quicquam,anything,,,aught,nothing,naught,,"[0, 0, 'aught', 'nothing', 'naught', 0]",3.0,3.0
+137.0,oras,edges,,,,borders,shores,coasts,"[0, 0, 0, 'borders', 'shores', 'coasts']",3.0,3.0
+140.0,fit,becomes,,can,be,grows,,,"[0, 'can', 'be', 'grows', 0, 0]",3.0,3.0
+167.0,ornatum," prepare, ornate, decorated, supply",,adorn,adorned,,,bright,"[0, 'adorn', 'adorned', 0, 0, 'bright']",3.0,3.0
+222.0,reposta,"put down, to place, deposit",lyes,,turned,thrown,,,"['lyes', 0, 'turned', 'thrown', 0, 0]",3.0,3.0
+234.0,resupini,"bent back, lying on back, supine, reclined",,supinely,,backward,,back,"[0, 'supinely', 0, 'backward', 0, 'back']",3.0,3.0
+239.0,diva,goddess,,god,,lady,,goddess,"[0, 'god', 0, 'lady', 0, 'goddess']",3.0,3.0
+64.0,viget,"to be lively, be vigorous, thrive",kindely,fresh,breath,fresh,,,"['kindely', 'fresh', 'breath', 'fresh', 0, 0]",4.0,3.0
+99.0,pergis,"to go, travel",goe,,,goest,walkest,goest,"['goe', 0, 0, 'goest', 'walkest', 'goest']",4.0,3.0
+120.0,cupide,eagerly,,heat,glad,desire,,desire,"[0, 'heat', 'glad', 'desire', 0, 'desire']",4.0,3.0
+130.0,nec,nothing,ought,nothing,nor,,,nothing,"['ought', 'nothing', 'nor', 0, 0, 'nothing']",4.0,3.0
+190.0,quiescant,"sleep, repose, calmly, quietly",,compose,hushed,lulled,,lulled,"[0, 'compose', 'hushed', 'lulled', 0, 'lulled']",4.0,3.0
+195.0,tranquilla,tranquil,,quiet,tranquil,calm,,quiet,"[0, 'quiet', 'tranquil', 'calm', 0, 'quiet']",4.0,3.0
+218.0,ita,so ,,,thence,then,there,then,"[0, 0, 'thence', 'then', 'there', 'then']",4.0,3.0
+226.0,inhians,"eager, gaping, yearning (open mouth)",passion,,apart,open-mouthed,open-mouthed,,"['passion', 0, 'apart', 'open-mouthed', 'open-mouthed', 0]",4.0,3.0
+253.0,placidam,"a mild, placid",happy,,placid,gentle,,gentle,"['happy', 0, 'placid', 'gentle', 0, 'gentle']",4.0,3.0
+274.0,rebus,things,perplexitie,things,,,task,task,"['perplexitie', 'things', 0, 0, 'task', 'task']",4.0,3.0
+29.0,solis,sun,suns,sun’s,,sun,sun,sun,"['suns', 'sun’s', 0, 'sun', 'sun', 'sun']",5.0,3.0
+52.0,diffuso,"to spread, pour out",,diffused,diffused,outspread,diffused,spreading,"[0, 'diffused', 'diffused', 'outspread', 'diffused', 'spreading']",5.0,3.0
+71.0,te,you (acc),thee,thee,,o,thou,thee,"['thee', 'thee', 0, 'o', 'thou', 'thee']",5.0,3.0
+79.0,vi,"strength, force, power, virtue",powr,power,power,power,,might,"['powr', 'power', 'power', 'power', 0, 'might']",5.0,3.0
+87.0,rapidos,"tearing away, seizing, fierce",,rapid,rapid,rapid,bounding,racing,"[0, 'rapid', 'rapid', 'rapid', 'bounding', 'racing']",5.0,3.0
+122.0,saecla,"for generations, for years",age,age,,races,generations,races,"['age', 'age', 0, 'races', 'generations', 'races']",5.0,3.0
+127.0,naturam,nature,nature,nature’s,nature,,cosmos,nature,"['nature', 'nature’s', 'nature', 0, 'cosmos', 'nature']",5.0,3.0
+149.0,versibus,verses,,lays,verse,verses,verse,verses,"[0, 'lays', 'verse', 'verses', 'verse', 'verses']",5.0,3.0
+182.0,moenera,"rewards, gift, duty",,tumults,arts,works,works,works,"[0, 'tumults', 'arts', 'works', 'works', 'works']",5.0,3.0
+211.0,se,himself,his,he,,himself,his,himself,"['his', 'he', 0, 'himself', 'his', 'himself']",5.0,3.0
+212.0,reiicit,rejects,resting,,o'erpowered,flings,flings,flings,"['resting', 0, ""o'erpowered"", 'flings', 'flings', 'flings']",5.0,3.0
+223.0,pascit,feeds,feeds,sucks,feeding,feeds,,feeds,"['feeds', 'sucks', 'feeding', 'feeds', 0, 'feeds']",5.0,3.0
+267.0,animo,animated,,strains,mind,mind,thought,mind,"[0, 'strains', 'mind', 'mind', 'thought', 'mind']",5.0,3.0
+5.0,voluptas,delight,joy,delight,joy,darling,delight,joy,"['joy', 'delight', 'joy', 'darling', 'delight', 'joy']",6.0,3.0
+10.0,labentia,to glide,move,rolling,gliding,gliding,gliding,gliding,"['move', 'rolling', 'gliding', 'gliding', 'gliding', 'gliding']",6.0,3.0
+16.0,terras,earth,earth,earth,lands,lands,lands,land,"['earth', 'earth', 'lands', 'lands', 'lands', 'land']",6.0,3.0
+17.0,frugiferentis,fruitbearing,corn-bearing,fruitful,corn-bearing,corn-bearing,fruitful,bears,"['corn-bearing', 'fruitful', 'corn-bearing', 'corn-bearing', 'fruitful', 'bears']",6.0,3.0
+22.0,genus,"origin, race, stock",things,kind,things,kind,things,tribe,"['things', 'kind', 'things', 'kind', 'things', 'tribe']",6.0,3.0
+25.0,concipitur,"take up, take in, take",conceiv'd,conceive,conceived,conceived,conceived,conceived,"[""conceiv'd"", 'conceive', 'conceived', 'conceived', 'conceived', 'conceived']",6.0,3.0
+30.0,te,you (acc),o,thee,thee,thee,thee,thou,"['o', 'thee', 'thee', 'thee', 'thee', 'thou']",6.0,3.0
+47.0,rident,"to smile, to laugh (3rd plural)",smile,smiles,smile,laugh,smile,smile,"['smile', 'smiles', 'smile', 'laugh', 'smile', 'smile']",6.0,3.0
+54.0,caelum,celestial,heavens,sky,sky,heaven,sky,sky,"['heavens', 'sky', 'sky', 'heaven', 'sky', 'sky']",6.0,3.0
+72.0,diva,a goddess  / deity,goddess,goddess,goddess,lady,divine,goddess,"['goddess', 'goddess', 'goddess', 'lady', 'divine', 'goddess']",6.0,3.0
+81.0,ferae,"a wild beast, wild animal",savage,savage,untamed,wild,wild,wild,"['savage', 'savage', 'untamed', 'wild', 'wild', 'wild']",6.0,3.0
+82.0,pecudes,cattle,bruits,beasts,herds,herds,herds,beasts,"['bruits', 'beasts', 'herds', 'herds', 'herds', 'beasts']",6.0,3.0
+84.0,pabula," fodder, pasturage, grass",meads,fields,pastures,pastures,fields,pastures,"['meads', 'fields', 'pastures', 'pastures', 'fields', 'pastures']",6.0,3.0
+89.0,amnis,river,streams,streams,streams,rivers,torrents,rivers,"['streams', 'streams', 'streams', 'rivers', 'torrents', 'rivers']",6.0,3.0
+101.0,per,by ,through,in,through,throughout,through,through,"['through', 'in', 'through', 'throughout', 'through', 'through']",6.0,3.0
+105.0,fluviosque,rivers,rivers,floods,streams,rivers,streams,rivers,"['rivers', 'floods', 'streams', 'rivers', 'streams', 'rivers']",6.0,3.0
+111.0,virentis,green,verdant,verdant,verdant,grassy,greening,verdant,"['verdant', 'verdant', 'verdant', 'grassy', 'greening', 'verdant']",6.0,3.0
+116.0,pectora,the chests,breast,breast,breast,breasts,breast,hearts,"['breast', 'breast', 'breast', 'breasts', 'breast', 'hearts']",6.0,3.0
+121.0,generatim,"kind, specie",off-spring,kind,tribes,kind,kind,kind,"['off-spring', 'kind', 'tribes', 'kind', 'kind', 'kind']",6.0,3.0
+145.0,te,you (acc),thine,thee,thou,thee,thee,thou,"['thine', 'thee', 'thou', 'thee', 'thee', 'thou']",6.0,3.0
+165.0,omni,all,eternal,every,every,every,every,all,"['eternal', 'every', 'every', 'every', 'every', 'all']",6.0,3.0
+183.0,militiai,of war,wars,war,war,war,war,warfare,"['wars', 'war', 'war', 'war', 'war', 'warfare']",6.0,3.0
+199.0,quoniam,"for, since",since,because,since,that,since,since,"['since', 'because', 'since', 'that', 'since', 'since']",6.0,3.0
+200.0,belli,war,wars,war,war,war,battle,war,"['wars', 'war', 'war', 'war', 'battle', 'war']",6.0,3.0
+215.0,vulnere,wound,wounds,pains,wound,wound,wound,wound,"['wounds', 'pains', 'wound', 'wound', 'wound', 'wound']",6.0,3.0
+224.0,amore,love ,amorous,love,love,love,love,with,"['amorous', 'love', 'love', 'love', 'love', 'with']",6.0,3.0
+243.0,sancto,holy,sacred,heavenly,sacred,holy,holy,sacred,"['sacred', 'heavenly', 'sacred', 'holy', 'holy', 'sacred']",6.0,3.0
+254.0,romanis,Romans,rome,rome,Rome,romans,romans,romans,"['rome', 'rome', 'Rome', 'romans', 'romans', 'romans']",6.0,3.0
+259.0,nos,of us,we,i,I,we,i,we,"['we', 'i', 'I', 'we', 'i', 'we']",6.0,3.0
+265.0,possumus,can,can,can,Can,can,may,can,"['can', 'can', 'Can', 'can', 'may', 'can']",6.0,3.0
+86.0,et,and,,,,,or,and,"[0, 0, 0, 0, 'or', 'and']",2.0,2.0
+171.0,quo,"where, for, why",,,,wherefore,,therefore,"[0, 0, 0, 'wherefore', 0, 'therefore']",2.0,2.0
+32.0,te,you (acc),,thee,thee,,,thou,"[0, 'thee', 'thee', 0, 0, 'thou']",3.0,2.0
+37.0,caeli,celestial,skies,,,heaven,,heaven,"['skies', 0, 0, 'heaven', 0, 'heaven']",3.0,2.0
+58.0,species,"face, a sight, look, view (sg fem, nom)",,,,aspect,face,face,"[0, 0, 0, 'aspect', 'face', 'face']",3.0,2.0
+103.0,ac,and (from atque),and,in,,,,and,"['and', 'in', 0, 0, 0, 'and']",3.0,2.0
+115.0,per,through,,,to,into,,into,"[0, 0, 'to', 'into', 0, 'into']",3.0,2.0
+139.0,neque,nothing,,nothing,aught,nothing,,,"[0, 'nothing', 'aught', 'nothing', 0, 0]",3.0,2.0
+159.0,nostro,our,,my,,our,,my,"[0, 'my', 0, 'our', 0, 'my']",3.0,2.0
+172.0,magis,more,,,rather,more,,more,"[0, 0, 'rather', 'more', 0, 'more']",3.0,2.0
+174.0,da,give,,give,give,lend,,,"[0, 'give', 'give', 'lend', 0, 0]",3.0,2.0
+180.0,interea,meantime,,,meanwhile,meanwhile,,meantime,"[0, 0, 'meanwhile', 'meanwhile', 0, 'meantime']",3.0,2.0
+237.0,hunc,him,,he,,,him,he,"[0, 'he', 0, 0, 'him', 'he']",3.0,2.0
+244.0,circum,"round, around",,round,,about,round,,"[0, 'round', 0, 'about', 'round', 0]",3.0,2.0
+272.0,talibus,such,such,such,,,this,,"['such', 'such', 0, 0, 'this', 0]",3.0,2.0
+12.0,quae,who,,who,,who,that,who,"[0, 'who', 0, 'who', 'that', 'who']",4.0,2.0
+80.0,inde,"Of place, from that place, thence",then,then,,next,,then,"['then', 'then', 0, 'next', 0, 'then']",4.0,2.0
+154.0,rerum,things,works,,things,things,,things,"['works', 0, 'things', 'things', 0, 'things']",4.0,2.0
+156.0,pangere,"to make, compose, write",essay,sing,,essay,,essay,"['essay', 'sing', 0, 'essay', 0, 'essay']",4.0,2.0
+173.0,aeternum,eternal,,immortal,immortal,everliving,immortal,,"[0, 'immortal', 'immortal', 'everliving', 'immortal', 0]",4.0,2.0
+202.0,moenera,,,tumults,,works,works,works,"[0, 'tumults', 0, 'works', 'works', 'works']",4.0,2.0
+228.0,te,you (acc),,thy,,thee,thee,thee,"[0, 'thy', 0, 'thee', 'thee', 'thee']",4.0,2.0
+236.0,ore,mouth,,lips,mouth,,lips,lips,"[0, 'lips', 'mouth', 0, 'lips', 'lips']",4.0,2.0
+245.0,fusa,"to pour out, to shed | | round, spindle, spinning wheel ?",,,pour,shed,pour,pour,"[0, 0, 'pour', 'shed', 'pour', 'pour']",4.0,2.0
+11.0,signa,mark,signs,signs,signs,signs,,stars,"['signs', 'signs', 'signs', 'signs', 0, 'stars']",5.0,2.0
+13.0,mare,sea,seas,sea,seas,sea,,sea,"['seas', 'sea', 'seas', 'sea', 0, 'sea']",5.0,2.0
+19.0,per,across,by,by,through,through,through,,"['by', 'by', 'through', 'through', 'through', 0]",5.0,2.0
+28.0,lumina,light,light,beams,light,light,,light,"['light', 'beams', 'light', 'light', 0, 'light']",5.0,2.0
+53.0,lumine,"light (sg, abl)",,light,light,light,radiance,light,"[0, 'light', 'light', 'light', 'radiance', 'light']",5.0,2.0
+73.0,tuumque,you / yours (adj sg neut voc),thine,,thy,thy,thy,thine,"['thine', 0, 'thy', 'thy', 'thy', 'thine']",5.0,2.0
+75.0,initum,"to go into, enter",approach,,approach,entering,approach,approach,"['approach', 0, 'approach', 'entering', 'approach', 'approach']",5.0,2.0
+93.0,te,yours,thy,thy,thy,thy,thee,,"['thy', 'thy', 'thy', 'thy', 'thee', 0]",5.0,2.0
+94.0,sequitur,follows,,follow,follow,follows,follow,follows,"[0, 'follow', 'follow', 'follows', 'follow', 'follows']",5.0,2.0
+95.0,cupide,"eagerly, passionately",eager,desire,eager,desire,,desire,"['eager', 'desire', 'eager', 'desire', 0, 'desire']",5.0,2.0
+197.0,iuvare,help,,bless,bless,bless,aid,bless,"[0, 'bless', 'bless', 'bless', 'aid', 'bless']",5.0,2.0
+209.0,saepe,often,oft,,oft,often,often,oft,"['oft', 0, 'oft', 'often', 'often', 'oft']",5.0,2.0
+225.0,avidos,"greedy, avid",greedy,greedily,,greedy,greedy,greedy,"['greedy', 'greedily', 0, 'greedy', 'greedy', 'greedy']",5.0,2.0
+268.0,nec,not,,nor,Nor,nor,nor,nor,"[0, 'nor', 'Nor', 'nor', 'nor', 'nor']",5.0,2.0
+2.0,genetrix,mother,parent,mother,mother,mother,mother,mother,"['parent', 'mother', 'mother', 'mother', 'mother', 'mother']",6.0,2.0
+8.0,caeli,celestial,heaven,heaven,heaven,heaven,stars,heaven,"['heaven', 'heaven', 'heaven', 'heaven', 'stars', 'heaven']",6.0,2.0
+9.0,subter,underneath,under,beneath,beneath,beneath,beneath,beneath,"['under', 'beneath', 'beneath', 'beneath', 'beneath', 'beneath']",6.0,2.0
+20.0,te,you (acc),thee,thee,thy,thee,thee,thee,"['thee', 'thee', 'thy', 'thee', 'thee', 'thee']",6.0,2.0
+21.0,quoniam, since then / because,since,for,since,since,for,for,"['since', 'for', 'since', 'since', 'for', 'for']",6.0,2.0
+23.0,omne,"all, every",all,every,all,every,all,every,"['all', 'every', 'all', 'every', 'all', 'every']",6.0,2.0
+24.0,animantum,,living,creatures,living,living,living,living,"['living', 'creatures', 'living', 'living', 'living', 'living']",6.0,2.0
+34.0,venti,winds // ? to come (gen/voc),winds,winds,winds,winds,wind,winds,"['winds', 'winds', 'winds', 'winds', 'wind', 'winds']",6.0,2.0
+36.0,nubila,clouds,clouds,clouds,clouds,clouds,cloud,clouds,"['clouds', 'clouds', 'clouds', 'clouds', 'cloud', 'clouds']",6.0,2.0
+39.0,tuum,yours (acc),thou,thy,thy,thy,thy,thy,"['thou', 'thy', 'thy', 'thy', 'thy', 'thy']",6.0,2.0
+46.0,tibi,"you (fem, dat)",thy,thee,thy,thee,thee,thee,"['thy', 'thee', 'thy', 'thee', 'thee', 'thee']",6.0,2.0
+56.0,simul,"at the same time, together, at once",when,when,soon,soon,soon,when,"['when', 'when', 'soon', 'soon', 'soon', 'when']",6.0,2.0
+70.0,volucris,  birds (noun pl fem acc),birds,birds,birds,fowls,fowls,birds,"['birds', 'birds', 'birds', 'fowls', 'fowls', 'birds']",6.0,2.0
+88.0,tranant,"to swim over, swim across,",take,swim,swim,swim,swim,swim,"['take', 'swim', 'swim', 'swim', 'swim', 'swim']",6.0,2.0
+98.0,inducere,"introduce, lead",leads,lead,leads,lead,lead,lead,"['leads', 'lead', 'leads', 'lead', 'lead', 'lead']",6.0,2.0
+104.0,montis,mountain,hills,mountains,mountains,mountains,mountains,mountains,"['hills', 'mountains', 'mountains', 'mountains', 'mountains', 'mountains']",6.0,2.0
+107.0,frondiferasque,leafy,leafie,leafy,leafy,leafy,leafy,leafy,"['leafie', 'leafy', 'leafy', 'leafy', 'leafy', 'leafy']",6.0,2.0
+110.0,camposque,plains,field,plains,plains,plains,plains,plains,"['field', 'plains', 'plains', 'plains', 'plains', 'plains']",6.0,2.0
+112.0,omnibus,everybody,every,every,every,all,every,all,"['every', 'every', 'every', 'all', 'every', 'all']",6.0,2.0
+117.0,amorem,love,flames,love,love,love,love,love,"['flames', 'love', 'love', 'love', 'love', 'love']",6.0,2.0
+128.0,sola,alone,sole,alone,alone,sole,alone,alone,"['sole', 'alone', 'alone', 'sole', 'alone', 'alone']",6.0,2.0
+132.0,te,you (acc),thee,thee,thee,thee,thee,thine,"['thee', 'thee', 'thee', 'thee', 'thee', 'thine']",6.0,2.0
+143.0,amabile,lovable,pleasant,lovely,lovely,lovely,lovely,lovely,"['pleasant', 'lovely', 'lovely', 'lovely', 'lovely', 'lovely']",6.0,2.0
+153.0,de,about,of,of,on,of,on,of,"['of', 'of', 'on', 'of', 'on', 'of']",6.0,2.0
+155.0,natura,nature,natures,nature,nature,nature,nature,nature,"['natures', 'nature', 'nature', 'nature', 'nature', 'nature']",6.0,2.0
+158.0,memmiadae,Memmius,memmius,memmius,memmius,memmii,memmius,memmii,"['memmius', 'memmius', 'memmius', 'memmii', 'memmius', 'memmii']",6.0,2.0
+160.0,quem,whom,who,whom,whom,whom,whom,whom,"['who', 'whom', 'whom', 'whom', 'whom', 'whom']",6.0,2.0
+161.0,tu,you,thee,thou,thou,thou,thou,thou,"['thee', 'thou', 'thou', 'thou', 'thou', 'thou']",6.0,2.0
+185.0,maria,seas,seas,sea,seas,seas,sea,seas,"['seas', 'sea', 'seas', 'seas', 'sea', 'seas']",6.0,2.0
+187.0,terras,earth,land,land,lands,lands,land,lands,"['land', 'land', 'lands', 'lands', 'land', 'lands']",6.0,2.0
+193.0,sola,only,alone,alone,alone,alone,alone,only,"['alone', 'alone', 'alone', 'alone', 'alone', 'only']",6.0,2.0
+194.0,potes,can,canst,canst,canst,canst,hast,canst,"['canst', 'canst', 'canst', 'canst', 'hast', 'canst']",6.0,2.0
+196.0,pace,peace,rest,peace,peace,peace,peace,peace,"['rest', 'peace', 'peace', 'peace', 'peace', 'peace']",6.0,2.0
+203.0,mavors,Mars,mars,mars,mars,mavors,mars,mavors,"['mars', 'mars', 'mars', 'mavors', 'mars', 'mavors']",6.0,2.0
+207.0,gremium,"lap, bossom",bosom,lap,bosom,lap,bosom,lap,"['bosom', 'lap', 'bosom', 'lap', 'bosom', 'lap']",6.0,2.0
+216.0,amoris,of love,love,love,love's,love,love,love,"['love', 'love', ""love's"", 'love', 'love', 'love']",6.0,2.0
+221.0,cervice,the neck,neck,neck,neck,neck,throat,neck,"['neck', 'neck', 'neck', 'neck', 'throat', 'neck']",6.0,2.0
+235.0,spiritus,breath of,soul,soul,breath,breath,breath,breath,"['soul', 'soul', 'breath', 'breath', 'breath', 'breath']",6.0,2.0
+247.0,suavis,"sweet, grateful",sweet,soft,sweet,sweet,soft,sweet,"['sweet', 'soft', 'sweet', 'sweet', 'soft', 'sweet']",6.0,2.0
+257.0,nam,for,for,for,For,for,for,for,"['for', 'for', 'For', 'for', 'for', 'for']",6.0,2.0
+15.0,quae,who,,,,,,that,"[0, 0, 0, 0, 0, 'that']",1.0,1.0
+126.0,rerum,things,,,,,,things,"[0, 0, 0, 0, 0, 'things']",1.0,1.0
+142.0,neque,nothing,,,,,,nor,"[0, 0, 0, 0, 0, 'nor']",1.0,1.0
+144.0,quicquam,anything,,,aught,,,,"[0, 0, 'aught', 0, 0, 0]",1.0,1.0
+147.0,studeo,studying,studious,,,,,,"['studious', 0, 0, 0, 0, 0]",1.0,1.0
+164.0,in,in,,,,,,through,"[0, 0, 0, 0, 0, 'through']",1.0,1.0
+227.0,in,in,,,,on,,,"[0, 0, 0, 'on', 0, 0]",1.0,1.0
+238.0,tu,you,,,,,,thou,"[0, 0, 0, 0, 0, 'thou']",1.0,1.0
+255.0,incluta,"celebrated, famous, glorious",,,,,glorious,,"[0, 0, 0, 0, 'glorious', 0]",1.0,1.0
+35.0,te,you (acc),,thee,,thee,,,"[0, 'thee', 0, 'thee', 0, 0]",2.0,1.0
+62.0,et,and  ,and,,,and,,,"['and', 0, 0, 'and', 0, 0]",2.0,1.0
+148.0,scribendis,to write (writing),,,,writing,,writing,"[0, 0, 0, 'writing', 0, 'writing']",2.0,1.0
+150.0,esse,are,,,be,,,be,"[0, 0, 'be', 0, 0, 'be']",2.0,1.0
+163.0,tempore,times,,ever,,ever,,,"[0, 'ever', 0, 'ever', 0, 0]",2.0,1.0
+166.0,omnibus,"all, everything",,,,,every,every,"[0, 0, 0, 0, 'every', 'every']",2.0,1.0
+178.0,effice,"make, create, succeed",,,cause,cause,,,"[0, 0, 'cause', 'cause', 0, 0]",2.0,1.0
+188.0,omnis,"all, everybody",,,all,all,,,"[0, 0, 'all', 'all', 0, 0]",2.0,1.0
+208.0,qui,who,,,who,who,,,"[0, 0, 'who', 'who', 0, 0]",2.0,1.0
+210.0,tuum,yours,,,thy,,,thy,"[0, 0, 'thy', 0, 0, 'thy']",2.0,1.0
+217.0,atque,and,,,,,and,and,"[0, 0, 0, 0, 'and', 'and']",2.0,1.0
+229.0,dea,goddess,,,,goddess,goddess,,"[0, 0, 0, 'goddess', 'goddess', 0]",2.0,1.0
+246.0,super,"on top, above",,,,above,above,,"[0, 0, 0, 'above', 'above', 0]",2.0,1.0
+273.0,in,in ,in,in,,,,,"['in', 'in', 0, 0, 0, 0]",2.0,1.0
+168.0,voluisti,(you) wanted,,,,willed,willed,willed,"[0, 0, 0, 'willed', 'willed', 'willed']",3.0,1.0
+240.0,tuo,on your,,thy,,thy,,thy,"[0, 'thy', 0, 'thy', 0, 'thy']",3.0,1.0
+40.0,tibi,"you (fem, dat)",,thee,,thee,thee,thee,"[0, 'thee', 0, 'thee', 'thee', 'thee']",4.0,1.0
+248.0,ex,from,,,from,from,from,from,"[0, 0, 'from', 'from', 'from', 'from']",4.0,1.0
+55.0,nam,for,for,for,,for,for,for,"['for', 'for', 0, 'for', 'for', 'for']",5.0,1.0
+61.0,diei,"day (sg, masc gen)",day,,day,day,day,day,"['day', 0, 'day', 'day', 'day', 'day']",5.0,1.0
+69.0,primum,"the first, first",first,first,,first,first,first,"['first', 'first', 0, 'first', 'first', 'first']",5.0,1.0
+78.0,tua,"yours, of you (adj sg fem abl)",thy,thy,thy,thy,,thy,"['thy', 'thy', 'thy', 'thy', 0, 'thy']",5.0,1.0
+109.0,avium,birds,birds,,birds,birds,birds,birds,"['birds', 0, 'birds', 'birds', 'birds', 'birds']",5.0,1.0
+162.0,dea,goddess,goddess,goddess,goddess,goddess,,goddess,"['goddess', 'goddess', 'goddess', 'goddess', 0, 'goddess']",5.0,1.0
+191.0,nam,for,,for,for,for,for,for,"[0, 'for', 'for', 'for', 'for', 'for']",5.0,1.0
+249.0,ore,mouth,lips,,lips,lips,lips,lips,"['lips', 0, 'lips', 'lips', 'lips', 'lips']",5.0,1.0
+258.0,neque,neither,,neither,neither,neither,neither,neither,"[0, 'neither', 'neither', 'neither', 'neither', 'neither']",5.0,1.0
+3.0,hominum,human,men,men,men,men,men,men,"['men', 'men', 'men', 'men', 'men', 'men']",6.0,1.0
+4.0,divomque,godly,gods,gods,gods,gods,gods,gods,"['gods', 'gods', 'gods', 'gods', 'gods', 'gods']",6.0,1.0
+7.0,venus,Venus,venus,venus,venus,venus,venus,venus,"['venus', 'venus', 'venus', 'venus', 'venus', 'venus']",6.0,1.0
+31.0,dea,goddess,goddess,goddess,goddess,goddess,goddess,goddess,"['goddess', 'goddess', 'goddess', 'goddess', 'goddess', 'goddess']",6.0,1.0
+43.0,tellus,"the earth, globe",earth,earth,earth,earth,earth,earth,"['earth', 'earth', 'earth', 'earth', 'earth', 'earth']",6.0,1.0
+45.0,flores,"a blossom, flower",flowers,flowers,flowers,flowers,flowers,flowers,"['flowers', 'flowers', 'flowers', 'flowers', 'flowers', 'flowers']",6.0,1.0
+102.0,maria,seas,seas,seas,seas,seas,seas,seas,"['seas', 'seas', 'seas', 'seas', 'seas', 'seas']",6.0,1.0
+124.0,quae,because,since,since,since,since,since,since,"['since', 'since', 'since', 'since', 'since', 'since']",6.0,1.0
+131.0,sine,without,without,without,without,without,without,without,"['without', 'without', 'without', 'without', 'without', 'without']",6.0,1.0
+136.0,luminis,of light,light,light,light,light,light,light,"['light', 'light', 'light', 'light', 'light', 'light']",6.0,1.0
+151.0,quos,whom,which,which,which,which,which,which,"['which', 'which', 'which', 'which', 'which', 'which']",6.0,1.0
+152.0,ego,I,i,i,i,i,i,i,"['i', 'i', 'i', 'i', 'i', 'i']",6.0,1.0
+186.0,ac,and,and,and,and,and,and,and,"['and', 'and', 'and', 'and', 'and', 'and']",6.0,1.0
+192.0,tu,you,thou,thou,thou,thou,thou,thou,"['thou', 'thou', 'thou', 'thou', 'thou', 'thou']",6.0,1.0
+256.0,pacem,peace,peace,peace,peace,peace,peace,peace,"['peace', 'peace', 'peace', 'peace', 'peace', 'peace']",6.0,1.0
+18.0,concelebras,celebrate,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+57.0,ac,and (from atque),,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+97.0,quamque,and how,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+119.0,ut,that,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+125.0,quoniam,because (for),,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+134.0,dias,"dea, of deity",,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+135.0,in,in,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+157.0,conor,try,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+170.0,rebus,things,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+179.0,ut,in,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+231.0,eque,,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+232.0,tuo,yours,,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+251.0,funde,"to pour out, to shed",,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
+261.0,hoc,"here, in this place",,,,,,,"[0, 0, 0, 0, 0, 0]",0.0,0.0
